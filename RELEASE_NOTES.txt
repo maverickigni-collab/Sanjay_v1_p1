@@ -1,0 +1,42 @@
+SANJAY — FINAL DEMONSTRATION RELEASE
+
+Polish: offline/occupied-port diagnostics, repeated launch reopens only the same
+camp root, inspection preserves local author, bounded SSH input/output/timeouts,
+visible peer errors/capacity limits, release hashes and an allowlisted clean export.
+
+OBSERVED CHECKS
+Source: 100 tests passed in 72.995s. Exported validation folder: 100 tests passed
+in 72.640s. Production frontend build, Python/JS syntax and Node pin checks passed.
+Tests cover signed workflow/conservation, persistence, trust, tamper/replay,
+revisions, route gates, privacy, Host/Origin/CSRF, first-run/duplicate-instance,
+artifact integrity, and actual 500-event limit without silent truncation.
+Real child pipes checked blocked input, timeout, oversized/truncated replies and
+peer diagnostics. Real 390px browser: no overflow, offline street map/fixed pin,
+explicit confirmation and zero external resources.
+
+PHYSICAL SSH STATUS
+Earlier physical Windows/ARM64 tests exchanged five signed SYNTHETIC workflow
+events both ways, replayed without duplicates, observed 15-second automatic sync,
+and retained identities, pins and state after both process restarts. Forced-command
+and forwarding restrictions were exercised. No private node keys/databases copied.
+
+Final-revision SSH recheck was attempted with renewed approval. Authentication
+succeeded, but the peer bridge found its camp web app stopped: 127.0.0.1:8890
+returned connection refused. The restricted sync key cannot start programs.
+That final physical recheck is BLOCKED, not passed. Start the existing peer app;
+do not replace its identity, weaken host checks or grant unrestricted shell access.
+
+DATA SAFETY / LIMITS
+This public bundle excludes private identities, SSH/Wi-Fi credentials, live SQLite,
+reporter contacts, research and raw OSM extracts. Runtime private data is not a
+redistributable installer. Manifest hashes detect corruption, not publisher trust.
+Existing roots were not reset. Initial dependency setup needs Python and a network
+or package cache; routine application/map use is local/LAN.
+
+Not production or completely field-tested. Physical phone/captive-window, WAN-off,
+USB and reboot/autostart field checks remain incomplete. No Pi hotspot provisioning,
+production pagination, automatic key rotation or independent multiuser approval.
+Four role names, 1 MB packets and 500 events are prototype limits. Perimeters remain
+unknown until drawn; zones are synthetic and site points provisional. Maps do not
+prove current availability/passability. Operator is localhost-only but token-free
+by user choice; local users/processes are trusted. Phone HTTP is unencrypted.

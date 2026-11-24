@@ -1,0 +1,16 @@
+'use strict';
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const classes=new Set(),host={classList:{add:x=>classes.add(x),remove:x=>classes.delete(x)},setAttribute(){},append(){}},events={};
+const map={centre:{lat:22.3,lng:73.2},fitBounds(){return this;},getZoom:()=>14,setZoom(){},getContainer:()=>host,on:(k,f)=>events[k]=f,getCenter(){return this.centre;},setView(p){events.movestart();this.centre={lat:p[0],lng:p[1]};events.moveend();}};
+const field=()=>({value:'',validity:{valid:true},addEventListener(k,f){this[k]=f;}}),form={elements:{lat:field(),lon:field()}},status={};let selected=0,invalidated=0,point;
+const context={window:{},document:{createElement:()=>({setAttribute(){}})},fetch:()=>Promise.reject(Error('explicit missing-road fixture')),L:{map:()=>map,imageOverlay:()=>({addTo(){return this;},setOpacity(){}}),DomEvent:{disableClickPropagation(){}},control:{scale:()=>({addTo(){}})}}};
+vm.runInNewContext(fs.readFileSync('sanjay/static/location-picker.js','utf8'),context);
+const picker=context.window.SanjayLocationPicker.create('test',{bounds:[[22,73],[23,74]]},(lat,lon)=>{selected++;point=[lat,lon];form.elements.lat.value=String(lat);form.elements.lon.value=String(lon);},()=>{invalidated++;form.elements.lat.value='';form.elements.lon.value='';},status,form);
+assert.equal(selected,0,'No initial assumed location');assert.equal(events.click,undefined,'Click is not a selection action');
+picker.confirm();assert.deepEqual(point,[22.3,73.2]);assert(classes.has('picker-confirmed'));
+events.movestart();assert.equal(form.elements.lat.value,'');assert(!classes.has('picker-confirmed'));assert(classes.has('picker-moving'));events.moveend();assert(!classes.has('picker-moving'));
+picker.setLocation(22.32,73.22);assert.deepEqual(point,[22.32,73.22]);
+form.elements.lat.value='22.34';form.elements.lon.value='73.24';form.elements.lat.change();assert.deepEqual(point,[22.34,73.24]);
+assert(invalidated>=3);picker.clear();assert(!classes.has('picker-confirmed'));
+const savedSelections=selected,savedInvalidations=invalidated;form.hidden=true;picker.confirm();events.movestart();assert.equal(selected,savedSelections);assert.equal(invalidated,savedInvalidations);
+console.log('PASS: fixed pin, explicit confirmation, pan invalidation, manual/GPS/camp coordinate alignment');

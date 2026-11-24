@@ -1,0 +1,71 @@
+{
+  "acquired_utc": "2026-11-24T05:07:17.793012+00:00",
+  "bounds": [
+    [
+      22.25,
+      73.13
+    ],
+    [
+      22.4,
+      73.3
+    ]
+  ],
+  "source": "OpenStreetMap via Overpass",
+  "licence": "ODbL 1.0",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "licence_url": "https://www.openstreetmap.org/copyright",
+  "attempts": [
+    {
+      "name": "roads",
+      "host": "https://overpass-api.de/api/interpreter",
+      "status": 502
+    },
+    {
+      "name": "roads",
+      "host": "https://overpass.kumi.systems/api/interpreter",
+      "status": 200
+    },
+    {
+      "name": "facilities",
+      "host": "https://overpass-api.de/api/interpreter",
+      "status": 502
+    },
+    {
+      "name": "facilities",
+      "host": "https://overpass.kumi.systems/api/interpreter",
+      "status": 200
+    }
+  ],
+  "errors": [
+    {
+      "name": "roads",
+      "host": "https://overpass-api.de/api/interpreter",
+      "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+    },
+    {
+      "name": "facilities",
+      "host": "https://overpass-api.de/api/interpreter",
+      "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+    }
+  ],
+  "roads": {
+    "file": "vadodara-roads.osm",
+    "nodes": 109968,
+    "ways": 28439,
+    "restrictions": 3,
+    "bytes": 13436968,
+    "sha256": "d431205bef6f398e3a60346031ef8c3e40d72d4b83c29447ec0c06976283cf05",
+    "query": "[out:xml][timeout:90][maxsize:67108864];way[\"highway\"~\"^(motorway|trunk|primary|secondary|tertiary|unclassified|residential|service|living_street|motorway_link|trunk_link|primary_link|secondary_link|tertiary_link)$\"](22.25,73.13,22.40,73.30)->.roads;rel(bw.roads)[\"type\"=\"restriction\"]->.restrictions;(.roads;.restrictions;);(._;>>;);out body;",
+    "host": "https://overpass.kumi.systems/api/interpreter"
+  },
+  "facilities": {
+    "file": "facilities.json",
+    "source_records": 497,
+    "accepted_named_candidates": 488,
+    "skipped": 9,
+    "bytes": 194684,
+    "sha256": "e5e3f0c59306f2e379089c98b115bcf609598c2357c43c064c8697e390ac2e2c",
+    "query": "[out:json][timeout:90][maxsize:33554432];nwr[\"amenity\"~\"^(hospital|clinic|school|police|fire_station|drinking_water)$\"](22.25,73.13,22.40,73.30);out tags center;",
+    "host": "https://overpass.kumi.systems/api/interpreter"
+  }
+}

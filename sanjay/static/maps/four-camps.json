@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "id": "vadodara-four-test-camps-v1",
+  "test_only": true,
+  "created_utc": "2026-11-23T16:11:16.206079+00:00",
+  "scope_label": "Vadodara city demo rectangle \u2014 NOT official municipal boundaries",
+  "scope_bounds": [
+    [
+      22.25,
+      73.13
+    ],
+    [
+      22.4,
+      73.3
+    ]
+  ],
+  "partition_reference": {
+    "lat": 22.2973142,
+    "lon": 73.1942567,
+    "source": "https://www.openstreetmap.org/node/2022807192"
+  },
+  "attribution": "Site points N/E/W and partition reference \u00a9 OpenStreetMap contributors, ODbL; South point: AdmissionSchool, address corroborated by official school site.",
+  "notice": "Synthetic TEST service zones and provisional host points only. No shelter authorisation, capacity, physical footprint or four-node supply-ledger integration is claimed.",
+  "camps": [
+    {
+      "id": "south",
+      "zone_id": "south",
+      "name": "South test camp",
+      "host_name": "Billabong High International School, Vadsar",
+      "short_name": "Billabong High",
+      "host_type": "Private school; user-selected test host",
+      "address": "Kalali Vadsar Ring Road, near Royal Acres, Vadodara",
+      "coordinates": [
+        73.173314,
+        22.262142
+      ],
+      "coordinate_status": "provisional",
+      "location_source": "https://admissionschool.com/school/billabong-high-international-school-vadodara-corporation-vadodara",
+      "identity_source": "https://billabonghighschool.com/icse-school-vadsar-vadodara/contact-us",
+      "point_note": "Third-party school-directory pin, matched to the official school address. Not surveyed or approved for relief use.",
+      "physical_perimeter": null,
+      "capacity": null,
+      "stock": null,
+      "ledger_origin": null,
+      "permission_status": "not_requested",
+      "test_only": true
+    },
+    {
+      "id": "north",
+      "zone_id": "north",
+      "name": "North test camp",
+      "host_name": "Sama Indoor Sports Complex",
+      "short_name": "Sama Sports Complex",
+      "host_type": "Municipal public sports complex",
+      "address": "New Sama Road, near Abhilasha Crossing, Vadodara",
+      "coordinates": [
+        73.1890515,
+        22.3412731
+      ],
+      "coordinate_status": "provisional",
+      "location_source": "https://www.openstreetmap.org/way/1458652712",
+      "identity_source": "https://vmc.gov.in/SamaSportsComplex.aspx",
+      "point_note": "Approximate OSM SPORTS COMPLEX building point on New Sama Road. Identity corroborated by VMC address; OSM building classification is not independently verified.",
+      "physical_perimeter": null,
+      "capacity": null,
+      "stock": null,
+      "ledger_origin": null,
+      "permission_status": "not_requested",
+      "test_only": true
+    },
+    {
+      "id": "east",
+      "zone_id": "east",
+      "name": "East test camp",
+      "host_name": "Jamnabai General Hospital campus",
+      "short_name": "Jamnabai Hospital",
+      "host_type": "Government public hospital campus reference",
+      "address": "Mandvi\u2013Pani Gate Road, Vadodara",
+      "coordinates": [
+        73.2121597,
+        22.2997987
+      ],
+      "coordinate_status": "provisional",
+      "location_source": "https://www.openstreetmap.org/node/6888435330",
+      "identity_source": "https://vadodara.nic.in/public-utility/jamnabai-general-hospital/",
+      "point_note": "OSM point identifies Jamnabai Blood Bank, used only as an approximate hospital-campus reference. Not a designated relief-camp location.",
+      "physical_perimeter": null,
+      "capacity": null,
+      "stock": null,
+      "ledger_origin": null,
+      "permission_status": "not_requested",
+      "test_only": true
+    },
+    {
+      "id": "west",
+      "zone_id": "west",
+      "name": "West test camp",
+      "host_name": "GMERS Medical College & Hospital, Gotri",
+      "short_name": "GMERS Gotri",
+      "host_type": "Government public medical college and hospital",
+      "address": "Old TB Hospital Campus, Gotri Road, Vadodara",
+      "coordinates": [
+        73.148016,
+        22.3138502
+      ],
+      "coordinate_status": "provisional",
+      "location_source": "https://www.openstreetmap.org/node/6987751729",
+      "identity_source": "https://gmersmcgv.ac.in/contact-us/",
+      "point_note": "OSM hospital point matched to the official GMERS Gotri address. Not surveyed or authorised for camp use.",
+      "physical_perimeter": null,
+      "capacity": null,
+      "stock": null,
+      "ledger_origin": null,
+      "permission_status": "not_requested",
+      "test_only": true
+    }
+  ],
+  "zones": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "north",
+          "label": "North service zone",
+          "camp_id": "north",
+          "color": "#83B7E4",
+          "label_position": [
+            73.21085134,
+            22.379462839999995
+          ]
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.1942567,
+                22.2973142
+              ],
+              [
+                73.13,
+                22.4
+              ],
+              [
+                73.3,
+                22.4
+              ],
+              [
+                73.1942567,
+                22.2973142
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "east",
+          "label": "East service zone",
+          "camp_id": "east",
+          "color": "#B2A4D4",
+          "label_position": [
+            73.27885134,
+            22.349462839999997
+          ]
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.1942567,
+                22.2973142
+              ],
+              [
+                73.3,
+                22.4
+              ],
+              [
+                73.3,
+                22.25
+              ],
+              [
+                73.1942567,
+                22.2973142
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "south",
+          "label": "South service zone",
+          "camp_id": "south",
+          "color": "#C3D0DD",
+          "label_position": [
+            73.21085134,
+            22.259462839999998
+          ]
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.1942567,
+                22.2973142
+              ],
+              [
+                73.3,
+                22.25
+              ],
+              [
+                73.13,
+                22.25
+              ],
+              [
+                73.1942567,
+                22.2973142
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "west",
+          "label": "West service zone",
+          "camp_id": "west",
+          "color": "#85BDBA",
+          "label_position": [
+            73.14285133999999,
+            22.28946284
+          ]
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.1942567,
+                22.2973142
+              ],
+              [
+                73.13,
+                22.25
+              ],
+              [
+                73.13,
+                22.4
+              ],
+              [
+                73.1942567,
+                22.2973142
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

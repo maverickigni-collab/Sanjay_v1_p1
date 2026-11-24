@@ -1,0 +1,6 @@
+{
+  "provider": "Google Maps satellite embed",
+  "url": "https://www.google.com/maps/embed?origin=mfe&pb=!1m11!1m8!1m3!1d7382.4565940634784!2d73.1812!3d22.3072!3m2!1i1024!2i768!4f13.1!5e1!6i16",
+  "terms": "https://www.google.com/permissions/geoguidelines/",
+  "limitations": "Keyless embed, not a licensed overlay API. Provider may change this interface. No imagery export or caching. Use a licensed API for commercial deployment and map overlays."
+}

@@ -1,0 +1,4882 @@
+[
+  {
+    "name": "Metro Hospital And Research Institute",
+    "category": "hospital",
+    "lat": 22.33499,
+    "lon": 73.2089837,
+    "source_url": "https://www.openstreetmap.org/node/329049159",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mental Hospital",
+    "category": "hospital",
+    "lat": 22.3176736,
+    "lon": 73.1989415,
+    "source_url": "https://www.openstreetmap.org/node/329053557",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Makarpura Road Police Station",
+    "category": "police",
+    "lat": 22.2707302,
+    "lon": 73.2032808,
+    "source_url": "https://www.openstreetmap.org/node/1885476293",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Navarachana School",
+    "category": "school",
+    "lat": 22.337347,
+    "lon": 73.1908028,
+    "source_url": "https://www.openstreetmap.org/node/2153514988",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maharani Kanya Vidyalaya",
+    "category": "school",
+    "lat": 22.3009434,
+    "lon": 73.2017984,
+    "source_url": "https://www.openstreetmap.org/node/2343996418",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maharani English Medium School",
+    "category": "school",
+    "lat": 22.3005868,
+    "lon": 73.2013813,
+    "source_url": "https://www.openstreetmap.org/node/2344001571",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bhumi Nursing Home & Echo Doppler Clinic",
+    "category": "hospital",
+    "lat": 22.3036505,
+    "lon": 73.2047701,
+    "source_url": "https://www.openstreetmap.org/node/2344024838",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Cricket Pitch",
+    "category": "school",
+    "lat": 22.3217261,
+    "lon": 73.2037548,
+    "source_url": "https://www.openstreetmap.org/node/3647017657",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nirmal Hospital",
+    "category": "hospital",
+    "lat": 22.2892704,
+    "lon": 73.1703061,
+    "source_url": "https://www.openstreetmap.org/node/3844037272",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nital skin clinic ",
+    "category": "clinic",
+    "lat": 22.2931898,
+    "lon": 73.1678198,
+    "source_url": "https://www.openstreetmap.org/node/4275241789",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ambe school",
+    "category": "school",
+    "lat": 22.3521366,
+    "lon": 73.2007145,
+    "source_url": "https://www.openstreetmap.org/node/4323397091",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Schvijk hospital",
+    "category": "hospital",
+    "lat": 22.3512565,
+    "lon": 73.2012042,
+    "source_url": "https://www.openstreetmap.org/node/4351301589",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Astha Physiotherapy Clinic",
+    "category": "hospital",
+    "lat": 22.3128782,
+    "lon": 73.1384215,
+    "source_url": "https://www.openstreetmap.org/node/4423234471",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Jivan bharti school",
+    "category": "school",
+    "lat": 22.3162441,
+    "lon": 73.1976318,
+    "source_url": "https://www.openstreetmap.org/node/4547413889",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rameshwar school",
+    "category": "school",
+    "lat": 22.307893,
+    "lon": 73.143624,
+    "source_url": "https://www.openstreetmap.org/node/4944062721",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Raneshwar Hospital",
+    "category": "hospital",
+    "lat": 22.2950183,
+    "lon": 73.1445083,
+    "source_url": "https://www.openstreetmap.org/node/6357743410",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "American School of Baroda",
+    "category": "school",
+    "lat": 22.3319378,
+    "lon": 73.2682358,
+    "source_url": "https://www.openstreetmap.org/node/6714907385",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Alpana Clinic",
+    "category": "clinic",
+    "lat": 22.2569913,
+    "lon": 73.2066008,
+    "source_url": "https://www.openstreetmap.org/node/6968406121",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "As Siddiq Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.2994608,
+    "lon": 73.2213646,
+    "source_url": "https://www.openstreetmap.org/node/6968415149",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dwarkesh Hospital",
+    "category": "hospital",
+    "lat": 22.3248646,
+    "lon": 73.1978278,
+    "source_url": "https://www.openstreetmap.org/node/6968439244",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Harshal Generaland Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3004297,
+    "lon": 73.2231125,
+    "source_url": "https://www.openstreetmap.org/node/6968717515",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vallabhacharya Mahaprabhuji Hospital",
+    "category": "hospital",
+    "lat": 22.2933762,
+    "lon": 73.2309942,
+    "source_url": "https://www.openstreetmap.org/node/6968717627",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bhailal Amin General Hospital",
+    "category": "hospital",
+    "lat": 22.3253843,
+    "lon": 73.1631088,
+    "source_url": "https://www.openstreetmap.org/node/6968717650",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Viththalesh Hospital",
+    "category": "hospital",
+    "lat": 22.26855,
+    "lon": 73.1909884,
+    "source_url": "https://www.openstreetmap.org/node/6968861302",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rushabh Nursing Home and Clinic",
+    "category": "clinic",
+    "lat": 22.2748253,
+    "lon": 73.1951036,
+    "source_url": "https://www.openstreetmap.org/node/6968861312",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Brij Psychiatric Hospital",
+    "category": "hospital",
+    "lat": 22.3098142,
+    "lon": 73.1873332,
+    "source_url": "https://www.openstreetmap.org/node/6968861341",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Priyal Clinic",
+    "category": "clinic",
+    "lat": 22.2998124,
+    "lon": 73.2212457,
+    "source_url": "https://www.openstreetmap.org/node/6969842707",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vraj Hospital",
+    "category": "hospital",
+    "lat": 22.2951426,
+    "lon": 73.1640472,
+    "source_url": "https://www.openstreetmap.org/node/6969913814",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kaka Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2998869,
+    "lon": 73.2330582,
+    "source_url": "https://www.openstreetmap.org/node/6969957544",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjivani Hospital and Laprascopy Center",
+    "category": "hospital",
+    "lat": 22.2975095,
+    "lon": 73.171775,
+    "source_url": "https://www.openstreetmap.org/node/6969966099",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "BM Parikh Foundation Trust",
+    "category": "hospital",
+    "lat": 22.3006735,
+    "lon": 73.2092294,
+    "source_url": "https://www.openstreetmap.org/node/6969968217",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Navrang Hospital",
+    "category": "hospital",
+    "lat": 22.3268271,
+    "lon": 73.2061046,
+    "source_url": "https://www.openstreetmap.org/node/6970040744",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Bhavesh Patel's Hospital",
+    "category": "hospital",
+    "lat": 22.3396366,
+    "lon": 73.1778905,
+    "source_url": "https://www.openstreetmap.org/node/6970041646",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Desai Urological and Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.3341735,
+    "lon": 73.1811172,
+    "source_url": "https://www.openstreetmap.org/node/6970043192",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Uro - Care Hospital - Vadodara",
+    "category": "hospital",
+    "lat": 22.3037135,
+    "lon": 73.1538525,
+    "source_url": "https://www.openstreetmap.org/node/6970044497",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Chiplonkar Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3003143,
+    "lon": 73.1974619,
+    "source_url": "https://www.openstreetmap.org/node/6970052948",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Handas Eye Hospital",
+    "category": "hospital",
+    "lat": 22.2683086,
+    "lon": 73.2019834,
+    "source_url": "https://www.openstreetmap.org/node/6970150961",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sant Hospital",
+    "category": "hospital",
+    "lat": 22.3016761,
+    "lon": 73.1984147,
+    "source_url": "https://www.openstreetmap.org/node/6970162258",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aditya Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.2919691,
+    "lon": 73.2106014,
+    "source_url": "https://www.openstreetmap.org/node/6970331220",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Acharya Nursing Home and Icu",
+    "category": "clinic",
+    "lat": 22.3261721,
+    "lon": 73.155714,
+    "source_url": "https://www.openstreetmap.org/node/6970343550",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rudraksha Medical and Eye Care Centre",
+    "category": "hospital",
+    "lat": 22.3430081,
+    "lon": 73.1757715,
+    "source_url": "https://www.openstreetmap.org/node/6970366432",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nisarg Orthopaedic and Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.3182731,
+    "lon": 73.2204612,
+    "source_url": "https://www.openstreetmap.org/node/6970438826",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ankur Children Hospital, Vihar Road",
+    "category": "hospital",
+    "lat": 22.3215968,
+    "lon": 73.2411504,
+    "source_url": "https://www.openstreetmap.org/node/6970440495",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vraj Hospital",
+    "category": "hospital",
+    "lat": 22.3472341,
+    "lon": 73.1745639,
+    "source_url": "https://www.openstreetmap.org/node/6970440613",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aadit Nursing Home",
+    "category": "hospital",
+    "lat": 22.2983445,
+    "lon": 73.145417,
+    "source_url": "https://www.openstreetmap.org/node/6970455204",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kala Laser and Cosmetic Surgery Centre",
+    "category": "hospital",
+    "lat": 22.3132981,
+    "lon": 73.1766218,
+    "source_url": "https://www.openstreetmap.org/node/6970468507",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Om Multi Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.3231785,
+    "lon": 73.1504716,
+    "source_url": "https://www.openstreetmap.org/node/6970473271",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neurosurgical Hospital",
+    "category": "hospital",
+    "lat": 22.302478,
+    "lon": 73.1998304,
+    "source_url": "https://www.openstreetmap.org/node/6970482646",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neurology Hospital",
+    "category": "hospital",
+    "lat": 22.313471,
+    "lon": 73.1587912,
+    "source_url": "https://www.openstreetmap.org/node/6970497637",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kamubala Poly Clinic",
+    "category": "clinic",
+    "lat": 22.3439198,
+    "lon": 73.1759928,
+    "source_url": "https://www.openstreetmap.org/node/6970622256",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Spandan Multi Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.2772602,
+    "lon": 73.203126,
+    "source_url": "https://www.openstreetmap.org/node/6970628472",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Devpushp Meternity and Lapruscopy Hospital",
+    "category": "hospital",
+    "lat": 22.2694876,
+    "lon": 73.1976423,
+    "source_url": "https://www.openstreetmap.org/node/6970628477",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shivam Eye Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2775159,
+    "lon": 73.1978354,
+    "source_url": "https://www.openstreetmap.org/node/6970628482",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vraj Hospital and I.C.U",
+    "category": "hospital",
+    "lat": 22.2724593,
+    "lon": 73.1870703,
+    "source_url": "https://www.openstreetmap.org/node/6970635980",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rishabh Nursing Home",
+    "category": "clinic",
+    "lat": 22.3211998,
+    "lon": 73.1588729,
+    "source_url": "https://www.openstreetmap.org/node/6970636559",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Chintu Children Hospital",
+    "category": "hospital",
+    "lat": 22.2966006,
+    "lon": 73.1719883,
+    "source_url": "https://www.openstreetmap.org/node/6970639701",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shri Narhari Arogya Kendra Hospital",
+    "category": "hospital",
+    "lat": 22.3182458,
+    "lon": 73.188335,
+    "source_url": "https://www.openstreetmap.org/node/6970646987",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kamat Kidney and Eye Hospital - Vadodara",
+    "category": "hospital",
+    "lat": 22.2961439,
+    "lon": 73.1678402,
+    "source_url": "https://www.openstreetmap.org/node/6970661089",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shrey Nursing Home and Iccu",
+    "category": "clinic",
+    "lat": 22.2972923,
+    "lon": 73.2010312,
+    "source_url": "https://www.openstreetmap.org/node/6970669189",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Palash Hospital",
+    "category": "hospital",
+    "lat": 22.2514256,
+    "lon": 73.2021077,
+    "source_url": "https://www.openstreetmap.org/node/6970670587",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aum Sai Retina Care Centre",
+    "category": "hospital",
+    "lat": 22.314571,
+    "lon": 73.1711031,
+    "source_url": "https://www.openstreetmap.org/node/6970677899",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aditya Oral And Maxillofacial Clinic",
+    "category": "clinic",
+    "lat": 22.3002988,
+    "lon": 73.199544,
+    "source_url": "https://www.openstreetmap.org/node/6970680766",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Prutha Maternity Nursing Home",
+    "category": "clinic",
+    "lat": 22.3204963,
+    "lon": 73.1972091,
+    "source_url": "https://www.openstreetmap.org/node/6970701030",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Uma Laparoscopy Hospital",
+    "category": "hospital",
+    "lat": 22.3015719,
+    "lon": 73.2304068,
+    "source_url": "https://www.openstreetmap.org/node/6970724561",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Swar Clinic",
+    "category": "clinic",
+    "lat": 22.3036229,
+    "lon": 73.2002735,
+    "source_url": "https://www.openstreetmap.org/node/6970724566",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Utkarsh Clinic",
+    "category": "clinic",
+    "lat": 22.326476,
+    "lon": 73.1555665,
+    "source_url": "https://www.openstreetmap.org/node/6970732308",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Yogeshwar Hospital",
+    "category": "hospital",
+    "lat": 22.3213065,
+    "lon": 73.1441362,
+    "source_url": "https://www.openstreetmap.org/node/6970732328",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gayatri Maternity Hospital(Only For Apollo Tyre)",
+    "category": "hospital",
+    "lat": 22.3009602,
+    "lon": 73.2348619,
+    "source_url": "https://www.openstreetmap.org/node/6970741767",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gorwa Hospital",
+    "category": "hospital",
+    "lat": 22.3338708,
+    "lon": 73.1558843,
+    "source_url": "https://www.openstreetmap.org/node/6970743458",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Navjivan Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3123949,
+    "lon": 73.2241385,
+    "source_url": "https://www.openstreetmap.org/node/6970809028",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "City Heart Centre",
+    "category": "hospital",
+    "lat": 22.3015396,
+    "lon": 73.1992335,
+    "source_url": "https://www.openstreetmap.org/node/6970849781",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sankalp Eye Hospital and Retina Centre",
+    "category": "hospital",
+    "lat": 22.3081256,
+    "lon": 73.16585,
+    "source_url": "https://www.openstreetmap.org/node/6970853227",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Netradeep Hospital",
+    "category": "hospital",
+    "lat": 22.2910521,
+    "lon": 73.1635849,
+    "source_url": "https://www.openstreetmap.org/node/6970895708",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Desai Eye Institute and Research Centre",
+    "category": "hospital",
+    "lat": 22.322088,
+    "lon": 73.1594714,
+    "source_url": "https://www.openstreetmap.org/node/6970996297",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anjali Memorial Hospital",
+    "category": "hospital",
+    "lat": 22.3228796,
+    "lon": 73.187985,
+    "source_url": "https://www.openstreetmap.org/node/6971013934",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreenath Clinic",
+    "category": "clinic",
+    "lat": 22.3022255,
+    "lon": 73.1971614,
+    "source_url": "https://www.openstreetmap.org/node/6971032533",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sankalp Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3011709,
+    "lon": 73.1985165,
+    "source_url": "https://www.openstreetmap.org/node/6971032538",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr Kalpit Baxi Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3016359,
+    "lon": 73.198415,
+    "source_url": "https://www.openstreetmap.org/node/6971032550",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjivani Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2706017,
+    "lon": 73.2017379,
+    "source_url": "https://www.openstreetmap.org/node/6971032603",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rahul Children Hospital",
+    "category": "hospital",
+    "lat": 22.3231078,
+    "lon": 73.1580971,
+    "source_url": "https://www.openstreetmap.org/node/6971034523",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anantshree Hospital",
+    "category": "hospital",
+    "lat": 22.2997336,
+    "lon": 73.2391461,
+    "source_url": "https://www.openstreetmap.org/node/6971034569",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sarveshwar Hospital",
+    "category": "hospital",
+    "lat": 22.3074035,
+    "lon": 73.2324895,
+    "source_url": "https://www.openstreetmap.org/node/6971041986",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Viroc Vadodara Institute For Reconstructive Orthopaedic Care",
+    "category": "hospital",
+    "lat": 22.31288,
+    "lon": 73.2022248,
+    "source_url": "https://www.openstreetmap.org/node/6971042021",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anya Ent Hospital",
+    "category": "hospital",
+    "lat": 22.3190324,
+    "lon": 73.1603475,
+    "source_url": "https://www.openstreetmap.org/node/6971973802",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Balvantray Mehta Nisargopchar Arogya Bhavan",
+    "category": "hospital",
+    "lat": 22.3227822,
+    "lon": 73.2102178,
+    "source_url": "https://www.openstreetmap.org/node/6974211790",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nene Clinic",
+    "category": "clinic",
+    "lat": 22.3177998,
+    "lon": 73.1483225,
+    "source_url": "https://www.openstreetmap.org/node/6974227937",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Kumars Clinic",
+    "category": "clinic",
+    "lat": 22.3341915,
+    "lon": 73.1807578,
+    "source_url": "https://www.openstreetmap.org/node/6974319992",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vadilal Eye Hospital",
+    "category": "hospital",
+    "lat": 22.2994966,
+    "lon": 73.1720252,
+    "source_url": "https://www.openstreetmap.org/node/6974625536",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ami Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3084506,
+    "lon": 73.1768015,
+    "source_url": "https://www.openstreetmap.org/node/6974690590",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr Nutan Shahs Eye Hospital and Advanced Phaco Centre",
+    "category": "hospital",
+    "lat": 22.3355132,
+    "lon": 73.1797117,
+    "source_url": "https://www.openstreetmap.org/node/6974776305",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arpan Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3262018,
+    "lon": 73.1459132,
+    "source_url": "https://www.openstreetmap.org/node/6974794536",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kalpana Hospital",
+    "category": "hospital",
+    "lat": 22.3311566,
+    "lon": 73.1807873,
+    "source_url": "https://www.openstreetmap.org/node/6974900282",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Heart Institute And Research Centre",
+    "category": "hospital",
+    "lat": 22.3066429,
+    "lon": 73.1651379,
+    "source_url": "https://www.openstreetmap.org/node/6974937986",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Batra Hospital",
+    "category": "hospital",
+    "lat": 22.3144767,
+    "lon": 73.2219645,
+    "source_url": "https://www.openstreetmap.org/node/6974975366",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sigma Hospital",
+    "category": "hospital",
+    "lat": 22.2702937,
+    "lon": 73.1972077,
+    "source_url": "https://www.openstreetmap.org/node/6974999628",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Siddharth Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3195243,
+    "lon": 73.1891739,
+    "source_url": "https://www.openstreetmap.org/node/6975013974",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dhanvantri E.N.T Hospital",
+    "category": "hospital",
+    "lat": 22.2795461,
+    "lon": 73.2306898,
+    "source_url": "https://www.openstreetmap.org/node/6975027858",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vardhman Ent Hospital",
+    "category": "hospital",
+    "lat": 22.2999166,
+    "lon": 73.1700242,
+    "source_url": "https://www.openstreetmap.org/node/6975038295",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maa Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3166894,
+    "lon": 73.2467991,
+    "source_url": "https://www.openstreetmap.org/node/6975061281",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mangalam Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.2795561,
+    "lon": 73.2311109,
+    "source_url": "https://www.openstreetmap.org/node/6975133162",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Krishnashray Hospital and Icu",
+    "category": "hospital",
+    "lat": 22.302415,
+    "lon": 73.1997766,
+    "source_url": "https://www.openstreetmap.org/node/6975148920",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ankur Children Hospital",
+    "category": "hospital",
+    "lat": 22.3437672,
+    "lon": 73.1762624,
+    "source_url": "https://www.openstreetmap.org/node/6975170232",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anusha Hospital",
+    "category": "hospital",
+    "lat": 22.3105772,
+    "lon": 73.1570014,
+    "source_url": "https://www.openstreetmap.org/node/6975207010",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Amit Orthopaedic Hosptial",
+    "category": "hospital",
+    "lat": 22.3441666,
+    "lon": 73.1759633,
+    "source_url": "https://www.openstreetmap.org/node/6975256381",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Govind Clinic and Retinal Laser Centre",
+    "category": "clinic",
+    "lat": 22.3041527,
+    "lon": 73.199027,
+    "source_url": "https://www.openstreetmap.org/node/6975456770",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Hari Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3197352,
+    "lon": 73.2036417,
+    "source_url": "https://www.openstreetmap.org/node/6975479348",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Satyam Hospital - Valpoi Sattari",
+    "category": "hospital",
+    "lat": 22.3563134,
+    "lon": 73.1674111,
+    "source_url": "https://www.openstreetmap.org/node/6975611357",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Rupa Jain Eye Clinic",
+    "category": "clinic",
+    "lat": 22.3094054,
+    "lon": 73.1737284,
+    "source_url": "https://www.openstreetmap.org/node/6975620780",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Balaji Hospital",
+    "category": "hospital",
+    "lat": 22.3180659,
+    "lon": 73.1628017,
+    "source_url": "https://www.openstreetmap.org/node/6975633438",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Amruta Hospital",
+    "category": "hospital",
+    "lat": 22.2923835,
+    "lon": 73.1647383,
+    "source_url": "https://www.openstreetmap.org/node/6975633443",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anuj Children Hospital",
+    "category": "hospital",
+    "lat": 22.3133651,
+    "lon": 73.2227571,
+    "source_url": "https://www.openstreetmap.org/node/6975837290",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anand Hospital",
+    "category": "hospital",
+    "lat": 22.3176782,
+    "lon": 73.1376419,
+    "source_url": "https://www.openstreetmap.org/node/6975854581",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Shubham Surgical and Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3211675,
+    "lon": 73.158934,
+    "source_url": "https://www.openstreetmap.org/node/6975865076",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ashutosh Hospital",
+    "category": "hospital",
+    "lat": 22.2826982,
+    "lon": 73.1658165,
+    "source_url": "https://www.openstreetmap.org/node/6975868104",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Saurabh Clinic",
+    "category": "clinic",
+    "lat": 22.3396718,
+    "lon": 73.1925716,
+    "source_url": "https://www.openstreetmap.org/node/6975868109",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Misha Maternity Home",
+    "category": "hospital",
+    "lat": 22.3213241,
+    "lon": 73.1886659,
+    "source_url": "https://www.openstreetmap.org/node/6975973342",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Chintamani Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3029553,
+    "lon": 73.2022174,
+    "source_url": "https://www.openstreetmap.org/node/6975986781",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vallabh Hospital",
+    "category": "hospital",
+    "lat": 22.2936889,
+    "lon": 73.2379626,
+    "source_url": "https://www.openstreetmap.org/node/6976057082",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Abhishek Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3247553,
+    "lon": 73.1571369,
+    "source_url": "https://www.openstreetmap.org/node/6976062465",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shirali Hospital",
+    "category": "hospital",
+    "lat": 22.3108216,
+    "lon": 73.1563939,
+    "source_url": "https://www.openstreetmap.org/node/6976102848",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Krishna Ent and Skin Hospital",
+    "category": "hospital",
+    "lat": 22.3001785,
+    "lon": 73.1974411,
+    "source_url": "https://www.openstreetmap.org/node/6976102853",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Navjeevan Nursing Home, Vadodara",
+    "category": "hospital",
+    "lat": 22.3059952,
+    "lon": 73.1733763,
+    "source_url": "https://www.openstreetmap.org/node/6976102873",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Raghuvir Eye Care Hospital",
+    "category": "hospital",
+    "lat": 22.3269422,
+    "lon": 73.2066899,
+    "source_url": "https://www.openstreetmap.org/node/6976102884",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vandana Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3115748,
+    "lon": 73.1559969,
+    "source_url": "https://www.openstreetmap.org/node/6976107742",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Chandan Hospital And I C U - Vadodara",
+    "category": "hospital",
+    "lat": 22.3020223,
+    "lon": 73.1998833,
+    "source_url": "https://www.openstreetmap.org/node/6976113880",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aaram Nursing Home, Baroda",
+    "category": "clinic",
+    "lat": 22.3024286,
+    "lon": 73.2021095,
+    "source_url": "https://www.openstreetmap.org/node/6976388680",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vins Hospital Pvt Ltd / Vadodara Institute Of Neurologyl Sciences",
+    "category": "hospital",
+    "lat": 22.3050746,
+    "lon": 73.1738799,
+    "source_url": "https://www.openstreetmap.org/node/6976413349",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Dandekar Eye Clinic And Surgery Centre",
+    "category": "clinic",
+    "lat": 22.2986957,
+    "lon": 73.1999483,
+    "source_url": "https://www.openstreetmap.org/node/6976413354",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kalawati Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3117875,
+    "lon": 73.2239205,
+    "source_url": "https://www.openstreetmap.org/node/6976489663",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shilpa Children Hospital",
+    "category": "hospital",
+    "lat": 22.3116393,
+    "lon": 73.1534006,
+    "source_url": "https://www.openstreetmap.org/node/6976489677",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ganga Jamna Hospital",
+    "category": "hospital",
+    "lat": 22.3203797,
+    "lon": 73.159457,
+    "source_url": "https://www.openstreetmap.org/node/6976489684",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aadhar Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3072955,
+    "lon": 73.1729545,
+    "source_url": "https://www.openstreetmap.org/node/6976489902",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Paavan Hospital",
+    "category": "hospital",
+    "lat": 22.3254265,
+    "lon": 73.1568566,
+    "source_url": "https://www.openstreetmap.org/node/6976524007",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreeji Hospital and Trauma Care Centre",
+    "category": "hospital",
+    "lat": 22.354995,
+    "lon": 73.1687455,
+    "source_url": "https://www.openstreetmap.org/node/6976811083",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sunderam Hospital",
+    "category": "hospital",
+    "lat": 22.3093557,
+    "lon": 73.1689889,
+    "source_url": "https://www.openstreetmap.org/node/6976868722",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Makarpura Hospital",
+    "category": "hospital",
+    "lat": 22.2512997,
+    "lon": 73.2003795,
+    "source_url": "https://www.openstreetmap.org/node/6977128117",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Parth Surgical Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3033288,
+    "lon": 73.2290389,
+    "source_url": "https://www.openstreetmap.org/node/6977175141",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjiv Hospital",
+    "category": "hospital",
+    "lat": 22.3124556,
+    "lon": 73.1811655,
+    "source_url": "https://www.openstreetmap.org/node/6977175146",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rituma Clinic",
+    "category": "clinic",
+    "lat": 22.3093762,
+    "lon": 73.1666668,
+    "source_url": "https://www.openstreetmap.org/node/6977175151",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dipti Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3333864,
+    "lon": 73.1799041,
+    "source_url": "https://www.openstreetmap.org/node/6977175173",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ananyaa Children Hospital",
+    "category": "hospital",
+    "lat": 22.3087161,
+    "lon": 73.1760035,
+    "source_url": "https://www.openstreetmap.org/node/6977704169",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Synergy Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2984091,
+    "lon": 73.1397066,
+    "source_url": "https://www.openstreetmap.org/node/6977799866",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anjaneya Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3214857,
+    "lon": 73.1463953,
+    "source_url": "https://www.openstreetmap.org/node/6977803462",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neeta Maternity and Gynaec Hospital",
+    "category": "hospital",
+    "lat": 22.311045,
+    "lon": 73.2243933,
+    "source_url": "https://www.openstreetmap.org/node/6977963004",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Adarsh General Hospital",
+    "category": "hospital",
+    "lat": 22.3087881,
+    "lon": 73.1611575,
+    "source_url": "https://www.openstreetmap.org/node/6977963068",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Samvedan Multispeciality Hospital",
+    "category": "hospital",
+    "lat": 22.285947,
+    "lon": 73.2338977,
+    "source_url": "https://www.openstreetmap.org/node/6978044469",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Siddhi Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3022444,
+    "lon": 73.202666,
+    "source_url": "https://www.openstreetmap.org/node/6978093703",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Manav Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3162223,
+    "lon": 73.1555772,
+    "source_url": "https://www.openstreetmap.org/node/6978213629",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neel Surgical Hospital For Children, Vadodara",
+    "category": "hospital",
+    "lat": 22.2946518,
+    "lon": 73.1715699,
+    "source_url": "https://www.openstreetmap.org/node/6978420651",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Eye-Q Super Speciality Eye Hospitals, BPC Road",
+    "category": "hospital",
+    "lat": 22.323645,
+    "lon": 73.1898022,
+    "source_url": "https://www.openstreetmap.org/node/6978430901",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kothari Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2953554,
+    "lon": 73.1586818,
+    "source_url": "https://www.openstreetmap.org/node/6978459533",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pooja Nursing Home, Vadodara",
+    "category": "clinic",
+    "lat": 22.2920088,
+    "lon": 73.1950727,
+    "source_url": "https://www.openstreetmap.org/node/6978644045",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shruti Ent Clinic",
+    "category": "clinic",
+    "lat": 22.3189195,
+    "lon": 73.2118191,
+    "source_url": "https://www.openstreetmap.org/node/6978692877",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "I Care Hospital and Phaco Center",
+    "category": "hospital",
+    "lat": 22.3102559,
+    "lon": 73.1582554,
+    "source_url": "https://www.openstreetmap.org/node/6978697265",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shanti Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3019056,
+    "lon": 73.2341921,
+    "source_url": "https://www.openstreetmap.org/node/6978981171",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vrund Clinic",
+    "category": "clinic",
+    "lat": 22.3301493,
+    "lon": 73.2060577,
+    "source_url": "https://www.openstreetmap.org/node/6978995185",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aashaa The Right Direction Hospital",
+    "category": "hospital",
+    "lat": 22.3021823,
+    "lon": 73.199729,
+    "source_url": "https://www.openstreetmap.org/node/6979173513",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Uday Clinic",
+    "category": "clinic",
+    "lat": 22.3011599,
+    "lon": 73.2271251,
+    "source_url": "https://www.openstreetmap.org/node/6979190421",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Advanced Eye Care Clinic",
+    "category": "clinic",
+    "lat": 22.2946264,
+    "lon": 73.149683,
+    "source_url": "https://www.openstreetmap.org/node/6979193608",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vallabh Nursing Home",
+    "category": "clinic",
+    "lat": 22.299403,
+    "lon": 73.2297724,
+    "source_url": "https://www.openstreetmap.org/node/6979224507",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr Thakorbhai V Patel Eye Institute and Sheth M L Vaduwala Hospital",
+    "category": "hospital",
+    "lat": 22.3067384,
+    "lon": 73.1958707,
+    "source_url": "https://www.openstreetmap.org/node/6979254243",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baba Advanced Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3203189,
+    "lon": 73.1971675,
+    "source_url": "https://www.openstreetmap.org/node/6979266292",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vision Plus Lasik Laser Center",
+    "category": "hospital",
+    "lat": 22.3097621,
+    "lon": 73.1708832,
+    "source_url": "https://www.openstreetmap.org/node/6979370256",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Siddhi Vinayak Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2551673,
+    "lon": 73.2110775,
+    "source_url": "https://www.openstreetmap.org/node/6979537043",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aastha Children Icu",
+    "category": "hospital",
+    "lat": 22.3319853,
+    "lon": 73.1809884,
+    "source_url": "https://www.openstreetmap.org/node/6979632801",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shaishav Nursing Home",
+    "category": "clinic",
+    "lat": 22.2991101,
+    "lon": 73.2210593,
+    "source_url": "https://www.openstreetmap.org/node/6979632841",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Life Line Hospital",
+    "category": "hospital",
+    "lat": 22.2824016,
+    "lon": 73.2312047,
+    "source_url": "https://www.openstreetmap.org/node/6979632851",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Neurosurgical and Children and Multispeciality Hospital",
+    "category": "hospital",
+    "lat": 22.2967414,
+    "lon": 73.1720151,
+    "source_url": "https://www.openstreetmap.org/node/6979632860",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Beena Gopal Nursing and Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.36867,
+    "lon": 73.1415224,
+    "source_url": "https://www.openstreetmap.org/node/6979632870",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ganga Clinic",
+    "category": "clinic",
+    "lat": 22.3025471,
+    "lon": 73.1975008,
+    "source_url": "https://www.openstreetmap.org/node/6979967488",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Maruti Surgical and Trauma Hospital",
+    "category": "hospital",
+    "lat": 22.3044008,
+    "lon": 73.1997719,
+    "source_url": "https://www.openstreetmap.org/node/6979967499",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Deep Pain Management Centre Hospital",
+    "category": "hospital",
+    "lat": 22.3200373,
+    "lon": 73.2009025,
+    "source_url": "https://www.openstreetmap.org/node/6980252862",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aayush Children Hospital",
+    "category": "hospital",
+    "lat": 22.326976,
+    "lon": 73.2067792,
+    "source_url": "https://www.openstreetmap.org/node/6980252872",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Amish Plastic Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.2985859,
+    "lon": 73.1744036,
+    "source_url": "https://www.openstreetmap.org/node/6980252884",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Indrapuri Hospital",
+    "category": "hospital",
+    "lat": 22.3005265,
+    "lon": 73.2303109,
+    "source_url": "https://www.openstreetmap.org/node/6980252917",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shrey Children Hospital Neonatal Care",
+    "category": "hospital",
+    "lat": 22.3232294,
+    "lon": 73.1580354,
+    "source_url": "https://www.openstreetmap.org/node/6980716059",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Singhania Dental and Ent Care",
+    "category": "hospital",
+    "lat": 22.2564824,
+    "lon": 73.2043719,
+    "source_url": "https://www.openstreetmap.org/node/6980891655",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ramkrishna Paramhansa Hospital,Kalali",
+    "category": "hospital",
+    "lat": 22.2569956,
+    "lon": 73.1632577,
+    "source_url": "https://www.openstreetmap.org/node/6980923984",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Saujanya Fracture and Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.2991889,
+    "lon": 73.1984375,
+    "source_url": "https://www.openstreetmap.org/node/6981465766",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Maharani Shntidevi Hospital",
+    "category": "hospital",
+    "lat": 22.2781506,
+    "lon": 73.1826876,
+    "source_url": "https://www.openstreetmap.org/node/6981475024",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bina Clinic Eye Care Centre",
+    "category": "hospital",
+    "lat": 22.3094916,
+    "lon": 73.1764179,
+    "source_url": "https://www.openstreetmap.org/node/6981560344",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Citizen Hospital",
+    "category": "hospital",
+    "lat": 22.3050746,
+    "lon": 73.2390878,
+    "source_url": "https://www.openstreetmap.org/node/6981614616",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maitri Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3072608,
+    "lon": 73.1771931,
+    "source_url": "https://www.openstreetmap.org/node/6981640949",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreejala Hospital",
+    "category": "hospital",
+    "lat": 22.301516,
+    "lon": 73.2004975,
+    "source_url": "https://www.openstreetmap.org/node/6981660832",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bittu Hospital",
+    "category": "hospital",
+    "lat": 22.2980281,
+    "lon": 73.2296115,
+    "source_url": "https://www.openstreetmap.org/node/6981663622",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Zainee Nursing Home",
+    "category": "clinic",
+    "lat": 22.2991784,
+    "lon": 73.2214509,
+    "source_url": "https://www.openstreetmap.org/node/6981666240",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "City Plaza Eye Clinic",
+    "category": "clinic",
+    "lat": 22.3032283,
+    "lon": 73.2009548,
+    "source_url": "https://www.openstreetmap.org/node/6981687944",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreeji Hospital, Sangam",
+    "category": "hospital",
+    "lat": 22.3202792,
+    "lon": 73.2125822,
+    "source_url": "https://www.openstreetmap.org/node/6981695096",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Centre For Sight, Allkapuri 2",
+    "category": "hospital",
+    "lat": 22.3180535,
+    "lon": 73.170619,
+    "source_url": "https://www.openstreetmap.org/node/6981707490",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Siddhi Clinic",
+    "category": "clinic",
+    "lat": 22.3107596,
+    "lon": 73.1538968,
+    "source_url": "https://www.openstreetmap.org/node/6981785474",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Premier Kidney Care Pvt.Ltd.",
+    "category": "hospital",
+    "lat": 22.3008919,
+    "lon": 73.1745431,
+    "source_url": "https://www.openstreetmap.org/node/6981814724",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Children Eye Care And Squint Clinic",
+    "category": "clinic",
+    "lat": 22.3107832,
+    "lon": 73.1662685,
+    "source_url": "https://www.openstreetmap.org/node/6981826715",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Unity Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.312045,
+    "lon": 73.1524202,
+    "source_url": "https://www.openstreetmap.org/node/6981887332",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Madhuram Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3128601,
+    "lon": 73.2231742,
+    "source_url": "https://www.openstreetmap.org/node/6981889405",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjiv Nursing Home",
+    "category": "hospital",
+    "lat": 22.2929866,
+    "lon": 73.1694871,
+    "source_url": "https://www.openstreetmap.org/node/6981891647",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Krushna Children and Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.2893669,
+    "lon": 73.2358456,
+    "source_url": "https://www.openstreetmap.org/node/6981895664",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anand Medical Nursing Home",
+    "category": "hospital",
+    "lat": 22.3015185,
+    "lon": 73.2298462,
+    "source_url": "https://www.openstreetmap.org/node/6981902064",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Mahaveer Hospital",
+    "category": "hospital",
+    "lat": 22.294063,
+    "lon": 73.2278111,
+    "source_url": "https://www.openstreetmap.org/node/6981912541",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Madhuram Hospital, Makarpura",
+    "category": "hospital",
+    "lat": 22.2577863,
+    "lon": 73.1987701,
+    "source_url": "https://www.openstreetmap.org/node/6981923120",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anand Multi Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.3355498,
+    "lon": 73.1531914,
+    "source_url": "https://www.openstreetmap.org/node/6981927316",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shushrut Hospital",
+    "category": "hospital",
+    "lat": 22.3273183,
+    "lon": 73.2100086,
+    "source_url": "https://www.openstreetmap.org/node/6981939847",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Subhechha Multispeciality Hospitals Pvt. Ltd",
+    "category": "hospital",
+    "lat": 22.3007964,
+    "lon": 73.1743486,
+    "source_url": "https://www.openstreetmap.org/node/6981939867",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Om Eye Clinic",
+    "category": "clinic",
+    "lat": 22.2999762,
+    "lon": 73.2212283,
+    "source_url": "https://www.openstreetmap.org/node/6981942241",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Avdhoot Neurosurgical Hospital",
+    "category": "hospital",
+    "lat": 22.3070132,
+    "lon": 73.1703736,
+    "source_url": "https://www.openstreetmap.org/node/6981966038",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sameep Children Hospital",
+    "category": "hospital",
+    "lat": 22.3140326,
+    "lon": 73.2222582,
+    "source_url": "https://www.openstreetmap.org/node/6981981260",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Om E.N.T. Hospital",
+    "category": "hospital",
+    "lat": 22.2778969,
+    "lon": 73.1977482,
+    "source_url": "https://www.openstreetmap.org/node/6981986440",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Modi Nursing Home and Iccu",
+    "category": "clinic",
+    "lat": 22.3136907,
+    "lon": 73.145187,
+    "source_url": "https://www.openstreetmap.org/node/6982014633",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Minal Clinic",
+    "category": "clinic",
+    "lat": 22.3093874,
+    "lon": 73.1528896,
+    "source_url": "https://www.openstreetmap.org/node/6982019686",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maharshi Atreya Health Centre - Ayurveda Panchakarma Health Centre",
+    "category": "clinic",
+    "lat": 22.3520058,
+    "lon": 73.1300104,
+    "source_url": "https://www.openstreetmap.org/node/6982022749",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anupama Eye Hospital and Phaco Center",
+    "category": "hospital",
+    "lat": 22.327621,
+    "lon": 73.1548463,
+    "source_url": "https://www.openstreetmap.org/node/6982048207",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aum Medical Nursing Home",
+    "category": "clinic",
+    "lat": 22.2931814,
+    "lon": 73.229924,
+    "source_url": "https://www.openstreetmap.org/node/6982060242",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baps Pramukh Swami Hospital",
+    "category": "hospital",
+    "lat": 22.2755538,
+    "lon": 73.1581427,
+    "source_url": "https://www.openstreetmap.org/node/6982070582",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Krishna Nursing Home, Vadodara",
+    "category": "clinic",
+    "lat": 22.3356965,
+    "lon": 73.1783944,
+    "source_url": "https://www.openstreetmap.org/node/6982092224",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Lifeline Clinic",
+    "category": "clinic",
+    "lat": 22.2971453,
+    "lon": 73.1523733,
+    "source_url": "https://www.openstreetmap.org/node/6982197088",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Raj Kidacare and Neonatal Care",
+    "category": "hospital",
+    "lat": 22.3084996,
+    "lon": 73.2150988,
+    "source_url": "https://www.openstreetmap.org/node/6982497378",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nikunj Clinic",
+    "category": "clinic",
+    "lat": 22.2934134,
+    "lon": 73.2306522,
+    "source_url": "https://www.openstreetmap.org/node/6982527827",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreenath Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3279746,
+    "lon": 73.1546766,
+    "source_url": "https://www.openstreetmap.org/node/6982527832",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shailee E.N.T. Hospital",
+    "category": "hospital",
+    "lat": 22.3003782,
+    "lon": 73.2204323,
+    "source_url": "https://www.openstreetmap.org/node/6982527924",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sangam Critical Care and Trauma Centre",
+    "category": "clinic",
+    "lat": 22.3205888,
+    "lon": 73.2116555,
+    "source_url": "https://www.openstreetmap.org/node/6982731925",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sarthak Hospital and Skin Care Centre",
+    "category": "hospital",
+    "lat": 22.3206365,
+    "lon": 73.1598848,
+    "source_url": "https://www.openstreetmap.org/node/6983255868",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Eye Institute",
+    "category": "hospital",
+    "lat": 22.3017952,
+    "lon": 73.2009011,
+    "source_url": "https://www.openstreetmap.org/node/6983301320",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gunjan Hospital And Icu Unit",
+    "category": "hospital",
+    "lat": 22.3394356,
+    "lon": 73.1779066,
+    "source_url": "https://www.openstreetmap.org/node/6983412007",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maa Children Hospital",
+    "category": "hospital",
+    "lat": 22.3083166,
+    "lon": 73.1798995,
+    "source_url": "https://www.openstreetmap.org/node/6983443624",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kamat Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3041378,
+    "lon": 73.1934969,
+    "source_url": "https://www.openstreetmap.org/node/6983447119",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aayush Orthopedic Hospital and Joint Replacement Center",
+    "category": "hospital",
+    "lat": 22.3029988,
+    "lon": 73.1975108,
+    "source_url": "https://www.openstreetmap.org/node/6983537256",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arman Children Hospital",
+    "category": "hospital",
+    "lat": 22.3164252,
+    "lon": 73.1379745,
+    "source_url": "https://www.openstreetmap.org/node/6983574298",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreeji Hospital, Ayurvedic Cross Road",
+    "category": "hospital",
+    "lat": 22.3004117,
+    "lon": 73.2208608,
+    "source_url": "https://www.openstreetmap.org/node/6983629349",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mehta Nursing Home, Vadodara",
+    "category": "clinic",
+    "lat": 22.3259847,
+    "lon": 73.1546686,
+    "source_url": "https://www.openstreetmap.org/node/6983629593",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Atmaj Eye Care Centre",
+    "category": "hospital",
+    "lat": 22.3163985,
+    "lon": 73.1582808,
+    "source_url": "https://www.openstreetmap.org/node/6983633875",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Monal Surgical Hospital and Endoscopy Center",
+    "category": "hospital",
+    "lat": 22.2977018,
+    "lon": 73.1706069,
+    "source_url": "https://www.openstreetmap.org/node/6983689270",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shrinathji Hospital and Icu",
+    "category": "hospital",
+    "lat": 22.3034107,
+    "lon": 73.229354,
+    "source_url": "https://www.openstreetmap.org/node/6983689389",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aashray Uro-Andrology Clinic",
+    "category": "clinic",
+    "lat": 22.3090567,
+    "lon": 73.1760317,
+    "source_url": "https://www.openstreetmap.org/node/6983694774",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Navkar Children Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.3205497,
+    "lon": 73.1972332,
+    "source_url": "https://www.openstreetmap.org/node/6983695044",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Jiruwala Eye Clinic and Phaco Centre",
+    "category": "clinic",
+    "lat": 22.2990896,
+    "lon": 73.2210372,
+    "source_url": "https://www.openstreetmap.org/node/6983724701",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gupta Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.266988,
+    "lon": 73.2018064,
+    "source_url": "https://www.openstreetmap.org/node/6983742432",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ankur Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.2765231,
+    "lon": 73.2021457,
+    "source_url": "https://www.openstreetmap.org/node/6983763368",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Medical College Hospital, Baroda",
+    "category": "hospital",
+    "lat": 22.3044852,
+    "lon": 73.1917025,
+    "source_url": "https://www.openstreetmap.org/node/6983795755",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Vijay Vallabh Sarvajanik Hospital",
+    "category": "hospital",
+    "lat": 22.3015198,
+    "lon": 73.2006088,
+    "source_url": "https://www.openstreetmap.org/node/6983795913",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Kadam Eye Hospital & Institute",
+    "category": "hospital",
+    "lat": 22.3014701,
+    "lon": 73.1731081,
+    "source_url": "https://www.openstreetmap.org/node/6986262200",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vraj Children Hospital",
+    "category": "hospital",
+    "lat": 22.3013001,
+    "lon": 73.2259208,
+    "source_url": "https://www.openstreetmap.org/node/6986279316",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mahavir Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2918352,
+    "lon": 73.2297347,
+    "source_url": "https://www.openstreetmap.org/node/6986279334",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aatmiya Hospital, Centre For Trauma and Spine",
+    "category": "hospital",
+    "lat": 22.2702136,
+    "lon": 73.2027237,
+    "source_url": "https://www.openstreetmap.org/node/6986279405",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Samanvaya Trust Hospital",
+    "category": "hospital",
+    "lat": 22.301722,
+    "lon": 73.1988385,
+    "source_url": "https://www.openstreetmap.org/node/6986376130",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjeevani Nursing Home, Vadodara",
+    "category": "hospital",
+    "lat": 22.2917097,
+    "lon": 73.2041466,
+    "source_url": "https://www.openstreetmap.org/node/6986434691",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Premdas Jalaram Hospital",
+    "category": "hospital",
+    "lat": 22.3122131,
+    "lon": 73.2229523,
+    "source_url": "https://www.openstreetmap.org/node/6986551285",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Parth Hospital Child Hospital and Maternity Home",
+    "category": "hospital",
+    "lat": 22.3560691,
+    "lon": 73.1680951,
+    "source_url": "https://www.openstreetmap.org/node/6986551295",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anukriti Hospital and I.C.U",
+    "category": "hospital",
+    "lat": 22.2544772,
+    "lon": 73.2110654,
+    "source_url": "https://www.openstreetmap.org/node/6986551305",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Hi-Tech Eye Surgery Clinic",
+    "category": "clinic",
+    "lat": 22.3094879,
+    "lon": 73.1696185,
+    "source_url": "https://www.openstreetmap.org/node/6986573147",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shushrusha Clinic",
+    "category": "clinic",
+    "lat": 22.2983402,
+    "lon": 73.2032789,
+    "source_url": "https://www.openstreetmap.org/node/6986591549",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Modi Clinic",
+    "category": "clinic",
+    "lat": 22.3338026,
+    "lon": 73.1807712,
+    "source_url": "https://www.openstreetmap.org/node/6986591564",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Urav Hospital",
+    "category": "hospital",
+    "lat": 22.2948243,
+    "lon": 73.1546789,
+    "source_url": "https://www.openstreetmap.org/node/6986605737",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rutvij Hospital",
+    "category": "hospital",
+    "lat": 22.3108302,
+    "lon": 73.1538752,
+    "source_url": "https://www.openstreetmap.org/node/6986605759",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Darsh Orthodontic Clinic",
+    "category": "clinic",
+    "lat": 22.3219876,
+    "lon": 73.1971041,
+    "source_url": "https://www.openstreetmap.org/node/6986605761",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Saakshi Children Hospital",
+    "category": "hospital",
+    "lat": 22.2921726,
+    "lon": 73.2106993,
+    "source_url": "https://www.openstreetmap.org/node/6986618794",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sannidhi Super Speciality Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.2935896,
+    "lon": 73.237927,
+    "source_url": "https://www.openstreetmap.org/node/6986765630",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Om Prasutigruh Hospital",
+    "category": "hospital",
+    "lat": 22.2871966,
+    "lon": 73.2349813,
+    "source_url": "https://www.openstreetmap.org/node/6986767628",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sapan Hospital Maternity and Nursinghom",
+    "category": "hospital",
+    "lat": 22.3026182,
+    "lon": 73.1977234,
+    "source_url": "https://www.openstreetmap.org/node/6986945383",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "San - Dip Nursing Home",
+    "category": "clinic",
+    "lat": 22.3342182,
+    "lon": 73.1790479,
+    "source_url": "https://www.openstreetmap.org/node/6987485604",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "GMERS Medical College and Hospital, Gotri",
+    "category": "hospital",
+    "lat": 22.3138502,
+    "lon": 73.148016,
+    "source_url": "https://www.openstreetmap.org/node/6987751729",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Smita Surgical Clinic",
+    "category": "clinic",
+    "lat": 22.3439483,
+    "lon": 73.1759566,
+    "source_url": "https://www.openstreetmap.org/node/6987970758",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aesthetique Centre For Plastic and Cosmetic Surgery",
+    "category": "hospital",
+    "lat": 22.3078582,
+    "lon": 73.1695434,
+    "source_url": "https://www.openstreetmap.org/node/6988006394",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rushikesh Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.3247528,
+    "lon": 73.1566574,
+    "source_url": "https://www.openstreetmap.org/node/6988079980",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kesha Hospital",
+    "category": "hospital",
+    "lat": 22.3093204,
+    "lon": 73.1719199,
+    "source_url": "https://www.openstreetmap.org/node/6988127599",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Krishna Critical Child Care Pvt Ltd",
+    "category": "clinic",
+    "lat": 22.3095028,
+    "lon": 73.1763542,
+    "source_url": "https://www.openstreetmap.org/node/6988334242",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kashvi Digestive Centre - Vadodara",
+    "category": "hospital",
+    "lat": 22.3140164,
+    "lon": 73.1746966,
+    "source_url": "https://www.openstreetmap.org/node/6988428407",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dev Hospital And Iccu, Vadodara",
+    "category": "hospital",
+    "lat": 22.3108762,
+    "lon": 73.1564288,
+    "source_url": "https://www.openstreetmap.org/node/6988520933",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ashutosh Clinic",
+    "category": "clinic",
+    "lat": 22.305721,
+    "lon": 73.2041252,
+    "source_url": "https://www.openstreetmap.org/node/6988522070",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sameer Hospital",
+    "category": "hospital",
+    "lat": 22.2994303,
+    "lon": 73.2202855,
+    "source_url": "https://www.openstreetmap.org/node/6988526088",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Samir Hosptial",
+    "category": "hospital",
+    "lat": 22.299764,
+    "lon": 73.1975584,
+    "source_url": "https://www.openstreetmap.org/node/6988673966",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr Jitendra .C. Gandhi",
+    "category": "hospital",
+    "lat": 22.3035981,
+    "lon": 73.2012619,
+    "source_url": "https://www.openstreetmap.org/node/6988906972",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Riddhi Hospital",
+    "category": "hospital",
+    "lat": 22.3147726,
+    "lon": 73.1593524,
+    "source_url": "https://www.openstreetmap.org/node/6988906977",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Noble Nursing Home",
+    "category": "clinic",
+    "lat": 22.3379533,
+    "lon": 73.1781956,
+    "source_url": "https://www.openstreetmap.org/node/6989050311",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ohm Clinic",
+    "category": "clinic",
+    "lat": 22.3618122,
+    "lon": 73.167511,
+    "source_url": "https://www.openstreetmap.org/node/6989083272",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dhvani Ent Hospital",
+    "category": "hospital",
+    "lat": 22.3027357,
+    "lon": 73.1976872,
+    "source_url": "https://www.openstreetmap.org/node/6989194982",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Astha Children Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2966235,
+    "lon": 73.151747,
+    "source_url": "https://www.openstreetmap.org/node/6990615521",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aaditya Child Care",
+    "category": "hospital",
+    "lat": 22.2901983,
+    "lon": 73.2051471,
+    "source_url": "https://www.openstreetmap.org/node/6990719570",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aum Advanced Orthopaedic Clinic",
+    "category": "clinic",
+    "lat": 22.3082658,
+    "lon": 73.1752284,
+    "source_url": "https://www.openstreetmap.org/node/6991217905",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Akshar Orhopedic Hospital - Vadodara",
+    "category": "hospital",
+    "lat": 22.3071466,
+    "lon": 73.1811547,
+    "source_url": "https://www.openstreetmap.org/node/6993558489",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreeji Hospital, Vadodara",
+    "category": "hospital",
+    "lat": 22.2927893,
+    "lon": 73.2369286,
+    "source_url": "https://www.openstreetmap.org/node/6993603800",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Netra The Eye Hospita",
+    "category": "hospital",
+    "lat": 22.2986882,
+    "lon": 73.171362,
+    "source_url": "https://www.openstreetmap.org/node/6993868908",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neel Medical Nursing Home",
+    "category": "clinic",
+    "lat": 22.3341615,
+    "lon": 73.156316,
+    "source_url": "https://www.openstreetmap.org/node/6993868951",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sudha Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3166107,
+    "lon": 73.2122549,
+    "source_url": "https://www.openstreetmap.org/node/6993892253",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pranayam Lung Institute And Research Centre Hospital",
+    "category": "hospital",
+    "lat": 22.3223362,
+    "lon": 73.2225184,
+    "source_url": "https://www.openstreetmap.org/node/6993975129",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Government Ayurvedic Clinic",
+    "category": "clinic",
+    "lat": 22.2911383,
+    "lon": 73.2929948,
+    "source_url": "https://www.openstreetmap.org/node/7865869836",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neomu Women's Hospital",
+    "category": "hospital",
+    "lat": 22.2888087,
+    "lon": 73.1691533,
+    "source_url": "https://www.openstreetmap.org/node/7866013209",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nidhi Cardiology Clinic",
+    "category": "clinic",
+    "lat": 22.2929509,
+    "lon": 73.1697089,
+    "source_url": "https://www.openstreetmap.org/node/7866013210",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Welcare Hospital",
+    "category": "hospital",
+    "lat": 22.2755483,
+    "lon": 73.1613198,
+    "source_url": "https://www.openstreetmap.org/node/7866013211",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sai Om Physiotherapy & Spine Health Centre",
+    "category": "hospital",
+    "lat": 22.3245722,
+    "lon": 73.1572105,
+    "source_url": "https://www.openstreetmap.org/node/7866013212",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Namisha Patel City Clinic",
+    "category": "clinic",
+    "lat": 22.3155542,
+    "lon": 73.1831107,
+    "source_url": "https://www.openstreetmap.org/node/7866013213",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Lalitha Child Care",
+    "category": "clinic",
+    "lat": 22.2956528,
+    "lon": 73.1705212,
+    "source_url": "https://www.openstreetmap.org/node/7866013214",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Karishma Clinic",
+    "category": "clinic",
+    "lat": 22.2959188,
+    "lon": 73.1642096,
+    "source_url": "https://www.openstreetmap.org/node/7866013215",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Alka Clinic",
+    "category": "clinic",
+    "lat": 22.2960287,
+    "lon": 73.1629594,
+    "source_url": "https://www.openstreetmap.org/node/7866013216",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ESI Hospital",
+    "category": "hospital",
+    "lat": 22.2737232,
+    "lon": 73.1563129,
+    "source_url": "https://www.openstreetmap.org/node/7866013217",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kaya Clinic",
+    "category": "clinic",
+    "lat": 22.2944124,
+    "lon": 73.1646455,
+    "source_url": "https://www.openstreetmap.org/node/7866013218",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vrajrenu Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3054,
+    "lon": 73.138687,
+    "source_url": "https://www.openstreetmap.org/node/7866013219",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Laparoscopy Hospital",
+    "category": "hospital",
+    "lat": 22.3088019,
+    "lon": 73.175811,
+    "source_url": "https://www.openstreetmap.org/node/7866013220",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vaanya Gynec & Children Hospital",
+    "category": "hospital",
+    "lat": 22.2939738,
+    "lon": 73.1374991,
+    "source_url": "https://www.openstreetmap.org/node/7866013221",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Himalaya Cancer Hospital & Research Institute",
+    "category": "hospital",
+    "lat": 22.3067785,
+    "lon": 73.176878,
+    "source_url": "https://www.openstreetmap.org/node/7866013222",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mahalaxmi Homeopathic Girls College and Hospital",
+    "category": "hospital",
+    "lat": 22.2863066,
+    "lon": 73.1773603,
+    "source_url": "https://www.openstreetmap.org/node/7866013223",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rachit Clinic",
+    "category": "clinic",
+    "lat": 22.298404,
+    "lon": 73.1727608,
+    "source_url": "https://www.openstreetmap.org/node/7866013224",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ansaar General Hospital",
+    "category": "hospital",
+    "lat": 22.288457,
+    "lon": 73.156056,
+    "source_url": "https://www.openstreetmap.org/node/7866013226",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sakhiya Skin Clinic",
+    "category": "clinic",
+    "lat": 22.3079976,
+    "lon": 73.1723082,
+    "source_url": "https://www.openstreetmap.org/node/7866013227",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arpan Clinic",
+    "category": "clinic",
+    "lat": 22.3094691,
+    "lon": 73.1763927,
+    "source_url": "https://www.openstreetmap.org/node/7866013228",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Life Care Hospital",
+    "category": "hospital",
+    "lat": 22.2890568,
+    "lon": 73.1700426,
+    "source_url": "https://www.openstreetmap.org/node/7866013229",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arin Multi Speciality Clinic",
+    "category": "clinic",
+    "lat": 22.2906154,
+    "lon": 73.1660129,
+    "source_url": "https://www.openstreetmap.org/node/7866013231",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Manusmruti Hospital",
+    "category": "hospital",
+    "lat": 22.31827,
+    "lon": 73.159115,
+    "source_url": "https://www.openstreetmap.org/node/7866013232",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shishu Children Hospital",
+    "category": "hospital",
+    "lat": 22.2953982,
+    "lon": 73.1525618,
+    "source_url": "https://www.openstreetmap.org/node/7866013233",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shashwat Hospital",
+    "category": "hospital",
+    "lat": 22.289535,
+    "lon": 73.130148,
+    "source_url": "https://www.openstreetmap.org/node/7866013234",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Child Hospital",
+    "category": "hospital",
+    "lat": 22.3226436,
+    "lon": 73.1589457,
+    "source_url": "https://www.openstreetmap.org/node/7866013235",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Jeevan Jyot Children & Dental Hospital",
+    "category": "hospital",
+    "lat": 22.3239978,
+    "lon": 73.157596,
+    "source_url": "https://www.openstreetmap.org/node/7866013237",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arth Radiology Clinic",
+    "category": "clinic",
+    "lat": 22.2809341,
+    "lon": 73.1590392,
+    "source_url": "https://www.openstreetmap.org/node/7866013238",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aakar Plastic Surgery Hospital",
+    "category": "hospital",
+    "lat": 22.3077668,
+    "lon": 73.175144,
+    "source_url": "https://www.openstreetmap.org/node/7866013239",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dev Clinic",
+    "category": "clinic",
+    "lat": 22.294809,
+    "lon": 73.154649,
+    "source_url": "https://www.openstreetmap.org/node/7866013241",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aum Clinic",
+    "category": "clinic",
+    "lat": 22.294738,
+    "lon": 73.137763,
+    "source_url": "https://www.openstreetmap.org/node/7866013242",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sahayog Medical Centre",
+    "category": "clinic",
+    "lat": 22.3255445,
+    "lon": 73.1545908,
+    "source_url": "https://www.openstreetmap.org/node/7866013243",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanjeevani Dental Hospital",
+    "category": "hospital",
+    "lat": 22.294785,
+    "lon": 73.142633,
+    "source_url": "https://www.openstreetmap.org/node/7866013244",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gastro Care Hospital",
+    "category": "hospital",
+    "lat": 22.2937053,
+    "lon": 73.1679376,
+    "source_url": "https://www.openstreetmap.org/node/7866013245",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ESI Hospital",
+    "category": "hospital",
+    "lat": 22.3090247,
+    "lon": 73.1498138,
+    "source_url": "https://www.openstreetmap.org/node/7866013246",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Madhuvan Maternity and Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3102086,
+    "lon": 73.1527805,
+    "source_url": "https://www.openstreetmap.org/node/7866013248",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mom & Me Hospital",
+    "category": "hospital",
+    "lat": 22.280589,
+    "lon": 73.151673,
+    "source_url": "https://www.openstreetmap.org/node/7866013249",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mangalam Hospital",
+    "category": "hospital",
+    "lat": 22.303549,
+    "lon": 73.149379,
+    "source_url": "https://www.openstreetmap.org/node/7866013250",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aadi Children Hospital",
+    "category": "hospital",
+    "lat": 22.2914235,
+    "lon": 73.1648357,
+    "source_url": "https://www.openstreetmap.org/node/7866013251",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Chimanbhai Patel Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3075831,
+    "lon": 73.1776929,
+    "source_url": "https://www.openstreetmap.org/node/7866013252",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vigos Hospital",
+    "category": "hospital",
+    "lat": 22.3082558,
+    "lon": 73.1699738,
+    "source_url": "https://www.openstreetmap.org/node/7866013253",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Neuron - Neuro Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.280705,
+    "lon": 73.151637,
+    "source_url": "https://www.openstreetmap.org/node/7866013254",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bharucha Hospital",
+    "category": "hospital",
+    "lat": 22.324579,
+    "lon": 73.156779,
+    "source_url": "https://www.openstreetmap.org/node/7866013255",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nene Clinic",
+    "category": "clinic",
+    "lat": 22.3177026,
+    "lon": 73.1485198,
+    "source_url": "https://www.openstreetmap.org/node/7866013256",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shiv Sagar Hospital",
+    "category": "hospital",
+    "lat": 22.3037938,
+    "lon": 73.1562346,
+    "source_url": "https://www.openstreetmap.org/node/7866013257",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shivani Hospital",
+    "category": "hospital",
+    "lat": 22.314052,
+    "lon": 73.14648,
+    "source_url": "https://www.openstreetmap.org/node/7866013258",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sneh Clinic",
+    "category": "clinic",
+    "lat": 22.3152525,
+    "lon": 73.1687002,
+    "source_url": "https://www.openstreetmap.org/node/7866013259",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sanidhya Clinic",
+    "category": "clinic",
+    "lat": 22.3018049,
+    "lon": 73.1666218,
+    "source_url": "https://www.openstreetmap.org/node/7866013260",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Mihir Acharya Neuro Clinic",
+    "category": "clinic",
+    "lat": 22.298398,
+    "lon": 73.1751,
+    "source_url": "https://www.openstreetmap.org/node/7866013262",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Care N Cure Homeopathic Clinic",
+    "category": "clinic",
+    "lat": 22.2946072,
+    "lon": 73.1580669,
+    "source_url": "https://www.openstreetmap.org/node/7866013263",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Homeopathy Clinic",
+    "category": "clinic",
+    "lat": 22.3054704,
+    "lon": 73.1663729,
+    "source_url": "https://www.openstreetmap.org/node/7866013264",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Ashok Prajapati Hospital",
+    "category": "hospital",
+    "lat": 22.291533,
+    "lon": 73.170356,
+    "source_url": "https://www.openstreetmap.org/node/7866013265",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vraj Children Hospital",
+    "category": "hospital",
+    "lat": 22.2982887,
+    "lon": 73.1718018,
+    "source_url": "https://www.openstreetmap.org/node/7866013266",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vadodara Critical Child Care Centre",
+    "category": "hospital",
+    "lat": 22.309353,
+    "lon": 73.176368,
+    "source_url": "https://www.openstreetmap.org/node/7866013267",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Mona Shah's Clinic",
+    "category": "clinic",
+    "lat": 22.2923396,
+    "lon": 73.1719602,
+    "source_url": "https://www.openstreetmap.org/node/7866013268",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kalyan Chest Hospital",
+    "category": "hospital",
+    "lat": 22.3088775,
+    "lon": 73.1684778,
+    "source_url": "https://www.openstreetmap.org/node/7866013269",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Om Shiv Hospital",
+    "category": "hospital",
+    "lat": 22.304466,
+    "lon": 73.147448,
+    "source_url": "https://www.openstreetmap.org/node/7866013270",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aadit Nursing Home",
+    "category": "clinic",
+    "lat": 22.3059834,
+    "lon": 73.148394,
+    "source_url": "https://www.openstreetmap.org/node/7866013271",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Uma Children Hospital",
+    "category": "hospital",
+    "lat": 22.3095398,
+    "lon": 73.1764991,
+    "source_url": "https://www.openstreetmap.org/node/7866013272",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Tricolour Hospitals",
+    "category": "hospital",
+    "lat": 22.317209,
+    "lon": 73.1669112,
+    "source_url": "https://www.openstreetmap.org/node/7866013273",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vadodara Diabetes and Endocrine Centre",
+    "category": "hospital",
+    "lat": 22.3078989,
+    "lon": 73.1688704,
+    "source_url": "https://www.openstreetmap.org/node/7866013274",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "N.M. Hospital",
+    "category": "hospital",
+    "lat": 22.290494,
+    "lon": 73.169821,
+    "source_url": "https://www.openstreetmap.org/node/7866013275",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Venus Super Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.2887972,
+    "lon": 73.1652661,
+    "source_url": "https://www.openstreetmap.org/node/7866013276",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Astha Hospital",
+    "category": "hospital",
+    "lat": 22.2980908,
+    "lon": 73.1717486,
+    "source_url": "https://www.openstreetmap.org/node/7866013277",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pramukh Swami Hospital",
+    "category": "hospital",
+    "lat": 22.275862,
+    "lon": 73.153211,
+    "source_url": "https://www.openstreetmap.org/node/7866013278",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Swastik Hospital",
+    "category": "hospital",
+    "lat": 22.296834,
+    "lon": 73.151736,
+    "source_url": "https://www.openstreetmap.org/node/7866013279",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Srushtil Hospital",
+    "category": "hospital",
+    "lat": 22.2925648,
+    "lon": 73.1711987,
+    "source_url": "https://www.openstreetmap.org/node/7866013280",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Tanvi Maternity & Nursing Home",
+    "category": "clinic",
+    "lat": 22.3171853,
+    "lon": 73.1629455,
+    "source_url": "https://www.openstreetmap.org/node/7866013281",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Skin Clinic",
+    "category": "clinic",
+    "lat": 22.280907,
+    "lon": 73.153388,
+    "source_url": "https://www.openstreetmap.org/node/7866013282",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "The Children's Hospital",
+    "category": "hospital",
+    "lat": 22.2985762,
+    "lon": 73.174157,
+    "source_url": "https://www.openstreetmap.org/node/7866013283",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Oral Research Hospital",
+    "category": "hospital",
+    "lat": 22.282988,
+    "lon": 73.1732789,
+    "source_url": "https://www.openstreetmap.org/node/7866013284",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kalpana Group of Hospitals",
+    "category": "hospital",
+    "lat": 22.287579,
+    "lon": 73.15209,
+    "source_url": "https://www.openstreetmap.org/node/7866013285",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pooja Clinic",
+    "category": "clinic",
+    "lat": 22.309851,
+    "lon": 73.174449,
+    "source_url": "https://www.openstreetmap.org/node/7866013286",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anmol Children's Hospital",
+    "category": "hospital",
+    "lat": 22.2731238,
+    "lon": 73.1481167,
+    "source_url": "https://www.openstreetmap.org/node/7866013288",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Parth Hospital",
+    "category": "hospital",
+    "lat": 22.3046284,
+    "lon": 73.152101,
+    "source_url": "https://www.openstreetmap.org/node/7866013289",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aman Hospital & Research Centre",
+    "category": "hospital",
+    "lat": 22.3092994,
+    "lon": 73.1487836,
+    "source_url": "https://www.openstreetmap.org/node/7866013290",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vihaan Hospital",
+    "category": "hospital",
+    "lat": 22.2912319,
+    "lon": 73.1348109,
+    "source_url": "https://www.openstreetmap.org/node/7866013291",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Param Clinic",
+    "category": "clinic",
+    "lat": 22.3214675,
+    "lon": 73.2318011,
+    "source_url": "https://www.openstreetmap.org/node/7866085794",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kavya Hospital",
+    "category": "hospital",
+    "lat": 22.2934153,
+    "lon": 73.2351825,
+    "source_url": "https://www.openstreetmap.org/node/7866085795",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sai Skin and Hair Clinic",
+    "category": "clinic",
+    "lat": 22.266319,
+    "lon": 73.191283,
+    "source_url": "https://www.openstreetmap.org/node/7866085796",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sri Vitthalesh Hospital",
+    "category": "hospital",
+    "lat": 22.268491,
+    "lon": 73.191085,
+    "source_url": "https://www.openstreetmap.org/node/7866085797",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Lotus Hospital For Newborn and Children",
+    "category": "hospital",
+    "lat": 22.3167882,
+    "lon": 73.2204661,
+    "source_url": "https://www.openstreetmap.org/node/7866085798",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Chirag Clinic & Nursing Home",
+    "category": "clinic",
+    "lat": 22.2599219,
+    "lon": 73.1892142,
+    "source_url": "https://www.openstreetmap.org/node/7866085799",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bankers Heart & Multispeciality Hospital",
+    "category": "hospital",
+    "lat": 22.3175601,
+    "lon": 73.2209434,
+    "source_url": "https://www.openstreetmap.org/node/7866085800",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Savita Hospital",
+    "category": "hospital",
+    "lat": 22.2930488,
+    "lon": 73.2424076,
+    "source_url": "https://www.openstreetmap.org/node/7866085801",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Yogini Hospital",
+    "category": "hospital",
+    "lat": 22.283837,
+    "lon": 73.205026,
+    "source_url": "https://www.openstreetmap.org/node/7866085802",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Medistar Hospital",
+    "category": "hospital",
+    "lat": 22.26037,
+    "lon": 73.179818,
+    "source_url": "https://www.openstreetmap.org/node/7866085803",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kalrav Children Hospital",
+    "category": "hospital",
+    "lat": 22.3041871,
+    "lon": 73.2436431,
+    "source_url": "https://www.openstreetmap.org/node/7866085804",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shrey Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.2710618,
+    "lon": 73.1972841,
+    "source_url": "https://www.openstreetmap.org/node/7866085805",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Manjalpur Hospital",
+    "category": "hospital",
+    "lat": 22.2705043,
+    "lon": 73.1972108,
+    "source_url": "https://www.openstreetmap.org/node/7866085807",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Payal Hospital",
+    "category": "hospital",
+    "lat": 22.316131,
+    "lon": 73.223971,
+    "source_url": "https://www.openstreetmap.org/node/7866085808",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Leprosy Hospital",
+    "category": "hospital",
+    "lat": 22.3134401,
+    "lon": 73.2426118,
+    "source_url": "https://www.openstreetmap.org/node/7866085809",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Krishna Hospital",
+    "category": "hospital",
+    "lat": 22.2874453,
+    "lon": 73.2369896,
+    "source_url": "https://www.openstreetmap.org/node/7866085810",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Nidan Children Clinic & Hospital",
+    "category": "hospital",
+    "lat": 22.2833115,
+    "lon": 73.2317358,
+    "source_url": "https://www.openstreetmap.org/node/7866085811",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dhanvantari Multi Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.2729286,
+    "lon": 73.1898002,
+    "source_url": "https://www.openstreetmap.org/node/7866085812",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Solace Hospital",
+    "category": "hospital",
+    "lat": 22.2929722,
+    "lon": 73.2423944,
+    "source_url": "https://www.openstreetmap.org/node/7866085813",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "District TB Centre",
+    "category": "hospital",
+    "lat": 22.311859,
+    "lon": 73.245104,
+    "source_url": "https://www.openstreetmap.org/node/7866085814",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pioneer Homoeopathic Medical College & Hospital",
+    "category": "hospital",
+    "lat": 22.3273069,
+    "lon": 73.2632792,
+    "source_url": "https://www.openstreetmap.org/node/7866085815",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vrundavan Hospital",
+    "category": "hospital",
+    "lat": 22.2996729,
+    "lon": 73.2428009,
+    "source_url": "https://www.openstreetmap.org/node/7866085816",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vatsalya Maternity Hospital",
+    "category": "hospital",
+    "lat": 22.3165077,
+    "lon": 73.2329645,
+    "source_url": "https://www.openstreetmap.org/node/7866085817",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Jay Hospital",
+    "category": "hospital",
+    "lat": 22.2611622,
+    "lon": 73.1907202,
+    "source_url": "https://www.openstreetmap.org/node/7866085818",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ESIC Hospital",
+    "category": "hospital",
+    "lat": 22.2827353,
+    "lon": 73.2150222,
+    "source_url": "https://www.openstreetmap.org/node/7866085819",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mitra Prashuti Gurha",
+    "category": "hospital",
+    "lat": 22.315657,
+    "lon": 73.2452264,
+    "source_url": "https://www.openstreetmap.org/node/7866085820",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Akshar Prasuti Gruh Hospital",
+    "category": "hospital",
+    "lat": 22.278979,
+    "lon": 73.230491,
+    "source_url": "https://www.openstreetmap.org/node/7866085821",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sai Hospital",
+    "category": "hospital",
+    "lat": 22.3225726,
+    "lon": 73.2313699,
+    "source_url": "https://www.openstreetmap.org/node/7866085822",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sarabhai Ayurvedic Hospital",
+    "category": "hospital",
+    "lat": 22.279283,
+    "lon": 73.204791,
+    "source_url": "https://www.openstreetmap.org/node/7866085824",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Hospital & ICU",
+    "category": "hospital",
+    "lat": 22.3105054,
+    "lon": 73.2240058,
+    "source_url": "https://www.openstreetmap.org/node/7866085825",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bankers MultiSpeciality Hospital",
+    "category": "hospital",
+    "lat": 22.2637739,
+    "lon": 73.1955406,
+    "source_url": "https://www.openstreetmap.org/node/7866085826",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dabhoiwala Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3005951,
+    "lon": 73.2237388,
+    "source_url": "https://www.openstreetmap.org/node/7866085827",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ENT Hospital",
+    "category": "hospital",
+    "lat": 22.2719622,
+    "lon": 73.1797951,
+    "source_url": "https://www.openstreetmap.org/node/7866085828",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Soham Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.281414,
+    "lon": 73.232943,
+    "source_url": "https://www.openstreetmap.org/node/7866085829",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ami Hospital",
+    "category": "hospital",
+    "lat": 22.2967734,
+    "lon": 73.2492586,
+    "source_url": "https://www.openstreetmap.org/node/7866085830",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Faith Hospital",
+    "category": "hospital",
+    "lat": 22.300616,
+    "lon": 73.2243171,
+    "source_url": "https://www.openstreetmap.org/node/7866085831",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Krishna Maternity Hospital & Infertility Centre",
+    "category": "hospital",
+    "lat": 22.2786395,
+    "lon": 73.2337401,
+    "source_url": "https://www.openstreetmap.org/node/7866085832",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aashray Children Hospital",
+    "category": "hospital",
+    "lat": 22.2921372,
+    "lon": 73.2374073,
+    "source_url": "https://www.openstreetmap.org/node/7866085833",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Minaxi B. Ramchandani Clinic",
+    "category": "clinic",
+    "lat": 22.2943331,
+    "lon": 73.2150175,
+    "source_url": "https://www.openstreetmap.org/node/7866085834",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sushrusha Clinic",
+    "category": "clinic",
+    "lat": 22.2912199,
+    "lon": 73.236124,
+    "source_url": "https://www.openstreetmap.org/node/7866085835",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Astitva Clinic",
+    "category": "clinic",
+    "lat": 22.3161173,
+    "lon": 73.2494009,
+    "source_url": "https://www.openstreetmap.org/node/7866085836",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vekaria Gynec Hospital",
+    "category": "hospital",
+    "lat": 22.315125,
+    "lon": 73.232251,
+    "source_url": "https://www.openstreetmap.org/node/7866085837",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Radha Multi Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.2788104,
+    "lon": 73.2310839,
+    "source_url": "https://www.openstreetmap.org/node/7866085838",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Omkar Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.3164046,
+    "lon": 73.2209228,
+    "source_url": "https://www.openstreetmap.org/node/7866085839",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vrindavan Hospital and ICU",
+    "category": "hospital",
+    "lat": 22.2995036,
+    "lon": 73.2440007,
+    "source_url": "https://www.openstreetmap.org/node/7866085840",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Care Multispeciality Hospital",
+    "category": "hospital",
+    "lat": 22.3412617,
+    "lon": 73.1546677,
+    "source_url": "https://www.openstreetmap.org/node/7866687037",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ESI Hospital",
+    "category": "hospital",
+    "lat": 22.3325772,
+    "lon": 73.1603154,
+    "source_url": "https://www.openstreetmap.org/node/7866687039",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Arpan Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3338288,
+    "lon": 73.1806174,
+    "source_url": "https://www.openstreetmap.org/node/7866687041",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Maruti Hospital",
+    "category": "hospital",
+    "lat": 22.333481,
+    "lon": 73.181492,
+    "source_url": "https://www.openstreetmap.org/node/7866687042",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Kadam Eye Hospital",
+    "category": "hospital",
+    "lat": 22.3376404,
+    "lon": 73.1790361,
+    "source_url": "https://www.openstreetmap.org/node/7866687043",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bharti ENT Care Hospital",
+    "category": "hospital",
+    "lat": 22.3363925,
+    "lon": 73.1787441,
+    "source_url": "https://www.openstreetmap.org/node/7866687044",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Swadia Hospital",
+    "category": "hospital",
+    "lat": 22.301852,
+    "lon": 73.19567,
+    "source_url": "https://www.openstreetmap.org/node/7866687045",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sai Orthopaedic Hospital",
+    "category": "hospital",
+    "lat": 22.316205,
+    "lon": 73.138012,
+    "source_url": "https://www.openstreetmap.org/node/7866687046",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Aashray Hospital",
+    "category": "hospital",
+    "lat": 22.324933,
+    "lon": 73.134721,
+    "source_url": "https://www.openstreetmap.org/node/7866687047",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Cornea Eye Hospital",
+    "category": "hospital",
+    "lat": 22.31602,
+    "lon": 73.131906,
+    "source_url": "https://www.openstreetmap.org/node/7866687048",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rhythm Maternity & Surgical Hosiptal",
+    "category": "hospital",
+    "lat": 22.3195627,
+    "lon": 73.1891693,
+    "source_url": "https://www.openstreetmap.org/node/7866687050",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "C.P. Suthar Physio & Spine Clinic",
+    "category": "clinic",
+    "lat": 22.3369559,
+    "lon": 73.1504391,
+    "source_url": "https://www.openstreetmap.org/node/7866687051",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shivam Surgical Hospital",
+    "category": "hospital",
+    "lat": 22.3361462,
+    "lon": 73.17887,
+    "source_url": "https://www.openstreetmap.org/node/7866687052",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Barc Hospital",
+    "category": "hospital",
+    "lat": 22.3441607,
+    "lon": 73.1788681,
+    "source_url": "https://www.openstreetmap.org/node/7866687053",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Hospital",
+    "category": "hospital",
+    "lat": 22.305838,
+    "lon": 73.192306,
+    "source_url": "https://www.openstreetmap.org/node/7866687054",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Pankaj Vyas Accident & Fracture Hospital",
+    "category": "hospital",
+    "lat": 22.3341528,
+    "lon": 73.1554985,
+    "source_url": "https://www.openstreetmap.org/node/7866687055",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gorwa Panchavati Health Centre",
+    "category": "clinic",
+    "lat": 22.3310688,
+    "lon": 73.1574174,
+    "source_url": "https://www.openstreetmap.org/node/7866687056",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Patel Hospital and ICU",
+    "category": "hospital",
+    "lat": 22.315514,
+    "lon": 73.134042,
+    "source_url": "https://www.openstreetmap.org/node/7866687057",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gandhi Hospital",
+    "category": "hospital",
+    "lat": 22.302593,
+    "lon": 73.202446,
+    "source_url": "https://www.openstreetmap.org/node/7866687058",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shubh Hospital",
+    "category": "hospital",
+    "lat": 22.342766,
+    "lon": 73.1828,
+    "source_url": "https://www.openstreetmap.org/node/7866687060",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sahayog Surgical Centre",
+    "category": "clinic",
+    "lat": 22.336323,
+    "lon": 73.151234,
+    "source_url": "https://www.openstreetmap.org/node/7866687061",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "The Cure Urological Hospital",
+    "category": "hospital",
+    "lat": 22.352144,
+    "lon": 73.205968,
+    "source_url": "https://www.openstreetmap.org/node/7866687062",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Niramaya Clinic",
+    "category": "clinic",
+    "lat": 22.2976552,
+    "lon": 73.2036999,
+    "source_url": "https://www.openstreetmap.org/node/7866687064",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pujam Hospital",
+    "category": "hospital",
+    "lat": 22.3382249,
+    "lon": 73.1486145,
+    "source_url": "https://www.openstreetmap.org/node/7866687065",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Parul Clinic",
+    "category": "clinic",
+    "lat": 22.3033662,
+    "lon": 73.1989274,
+    "source_url": "https://www.openstreetmap.org/node/7866687066",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ashirvad Hospital",
+    "category": "hospital",
+    "lat": 22.2922256,
+    "lon": 73.198996,
+    "source_url": "https://www.openstreetmap.org/node/7866687067",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shivendu Clinic",
+    "category": "clinic",
+    "lat": 22.338813,
+    "lon": 73.193795,
+    "source_url": "https://www.openstreetmap.org/node/7866687068",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kamubala Hospital",
+    "category": "hospital",
+    "lat": 22.3449059,
+    "lon": 73.1928618,
+    "source_url": "https://www.openstreetmap.org/node/7866687069",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Khushbu Children Hospital",
+    "category": "hospital",
+    "lat": 22.3326105,
+    "lon": 73.1731832,
+    "source_url": "https://www.openstreetmap.org/node/7866687070",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sudhalkar Eye Hospital and Retina Centre",
+    "category": "hospital",
+    "lat": 22.303092,
+    "lon": 73.202518,
+    "source_url": "https://www.openstreetmap.org/node/7866687072",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sayaji Hospital",
+    "category": "hospital",
+    "lat": 22.301478,
+    "lon": 73.193684,
+    "source_url": "https://www.openstreetmap.org/node/7866687073",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Coral Hospital Orthopaedic and Surgical Care",
+    "category": "hospital",
+    "lat": 22.3495036,
+    "lon": 73.2007505,
+    "source_url": "https://www.openstreetmap.org/node/7866687074",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Urmil Children Hospital",
+    "category": "hospital",
+    "lat": 22.331953,
+    "lon": 73.180529,
+    "source_url": "https://www.openstreetmap.org/node/7866687075",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Derma Care",
+    "category": "clinic",
+    "lat": 22.3029232,
+    "lon": 73.1990982,
+    "source_url": "https://www.openstreetmap.org/node/7866687076",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Umiya Hospital",
+    "category": "hospital",
+    "lat": 22.336307,
+    "lon": 73.154401,
+    "source_url": "https://www.openstreetmap.org/node/7866687078",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sumandeep Hospital",
+    "category": "hospital",
+    "lat": 22.303054,
+    "lon": 73.193186,
+    "source_url": "https://www.openstreetmap.org/node/7866687080",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Government Hospital",
+    "category": "hospital",
+    "lat": 22.339582,
+    "lon": 73.168995,
+    "source_url": "https://www.openstreetmap.org/node/7866687081",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Manav Hospital",
+    "category": "hospital",
+    "lat": 22.324914,
+    "lon": 73.140242,
+    "source_url": "https://www.openstreetmap.org/node/7866687082",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Devamut Hospital",
+    "category": "hospital",
+    "lat": 22.316228,
+    "lon": 73.131322,
+    "source_url": "https://www.openstreetmap.org/node/7866687083",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bhumi Hospital",
+    "category": "clinic",
+    "lat": 22.3065705,
+    "lon": 73.2044425,
+    "source_url": "https://www.openstreetmap.org/node/7866687085",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Matrukrupa Children Hospital",
+    "category": "hospital",
+    "lat": 22.34994,
+    "lon": 73.173684,
+    "source_url": "https://www.openstreetmap.org/node/7866687086",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Naik Super Speciality Hospital",
+    "category": "hospital",
+    "lat": 22.30569,
+    "lon": 73.1928928,
+    "source_url": "https://www.openstreetmap.org/node/7866687087",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Riddhi Children Hospital",
+    "category": "hospital",
+    "lat": 22.342652,
+    "lon": 73.186688,
+    "source_url": "https://www.openstreetmap.org/node/7866687088",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sahaj Children & Multispeciality Hospital",
+    "category": "hospital",
+    "lat": 22.316041,
+    "lon": 73.137541,
+    "source_url": "https://www.openstreetmap.org/node/7866687089",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Gopinathji Hospital",
+    "category": "hospital",
+    "lat": 22.3447663,
+    "lon": 73.1857409,
+    "source_url": "https://www.openstreetmap.org/node/7866687090",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anand Hospital",
+    "category": "hospital",
+    "lat": 22.3323897,
+    "lon": 73.1804431,
+    "source_url": "https://www.openstreetmap.org/node/7866687092",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Our Lady of Pillar Hospital",
+    "category": "hospital",
+    "lat": 22.3249419,
+    "lon": 73.1893693,
+    "source_url": "https://www.openstreetmap.org/node/7935281679",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kasturba Hospital",
+    "category": "hospital",
+    "lat": 22.3239296,
+    "lon": 73.1891988,
+    "source_url": "https://www.openstreetmap.org/node/7935281682",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Pinku Children Hospital",
+    "category": "hospital",
+    "lat": 22.2881267,
+    "lon": 73.2058609,
+    "source_url": "https://www.openstreetmap.org/node/7935281835",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shruti Clinic",
+    "category": "hospital",
+    "lat": 22.281201,
+    "lon": 73.196999,
+    "source_url": "https://www.openstreetmap.org/node/7935281856",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ayurvedic Arogyabhavan",
+    "category": "hospital",
+    "lat": 22.2796392,
+    "lon": 73.2043263,
+    "source_url": "https://www.openstreetmap.org/node/7935281862",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "VISHWAS GENERAL HOSPITAL & MATERNITY HOME",
+    "category": "hospital",
+    "lat": 22.278973,
+    "lon": 73.185112,
+    "source_url": "https://www.openstreetmap.org/node/7935281866",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Manjalpur Urban Health Center",
+    "category": "hospital",
+    "lat": 22.278641,
+    "lon": 73.196467,
+    "source_url": "https://www.openstreetmap.org/node/7935281870",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr Shailesh Talati",
+    "category": "hospital",
+    "lat": 22.2784094,
+    "lon": 73.1948494,
+    "source_url": "https://www.openstreetmap.org/node/7935281871",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Womens Hospital",
+    "category": "hospital",
+    "lat": 22.2774501,
+    "lon": 73.1900706,
+    "source_url": "https://www.openstreetmap.org/node/7935281877",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Ayushya Hospital",
+    "category": "hospital",
+    "lat": 22.276841,
+    "lon": 73.197787,
+    "source_url": "https://www.openstreetmap.org/node/7935281880",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Sunshine Global Hospitals",
+    "category": "hospital",
+    "lat": 22.276577,
+    "lon": 73.2002906,
+    "source_url": "https://www.openstreetmap.org/node/7935281882",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "ANANT SEXOLOGY CLINIC",
+    "category": "clinic",
+    "lat": 22.3426423,
+    "lon": 73.186392,
+    "source_url": "https://www.openstreetmap.org/node/8299573854",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda Eye Institute",
+    "category": "hospital",
+    "lat": 22.3549875,
+    "lon": 73.1995668,
+    "source_url": "https://www.openstreetmap.org/node/9874633176",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Parth School of Science and competition",
+    "category": "school",
+    "lat": 22.3269565,
+    "lon": 73.197968,
+    "source_url": "https://www.openstreetmap.org/node/10821102211",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vinayak Ayurvedic Clinic",
+    "category": "clinic",
+    "lat": 22.2956889,
+    "lon": 73.2521686,
+    "source_url": "https://www.openstreetmap.org/node/10852612902",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rhythm Heart Institute",
+    "category": "hospital",
+    "lat": 22.337946,
+    "lon": 73.2049649,
+    "source_url": "https://www.openstreetmap.org/node/11254409375",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan School",
+    "category": "school",
+    "lat": 22.2694516,
+    "lon": 73.2042029,
+    "source_url": "https://www.openstreetmap.org/node/11330780431",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vala Eye Centre",
+    "category": "hospital",
+    "lat": 22.3151561,
+    "lon": 73.1393322,
+    "source_url": "https://www.openstreetmap.org/node/13142189759",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "smile dental care",
+    "category": "hospital",
+    "lat": 22.3072129,
+    "lon": 73.1375669,
+    "source_url": "https://www.openstreetmap.org/node/13517936135",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Dr. Shivam Shah | Orthopedic, Robotic Knee & Hip Replacement Surgeon In Vadodara",
+    "category": "hospital",
+    "lat": 22.276556,
+    "lon": 73.2001577,
+    "source_url": "https://www.openstreetmap.org/node/13718227777",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Anand Vidya Vihar",
+    "category": "school",
+    "lat": 22.3141926,
+    "lon": 73.1545203,
+    "source_url": "https://www.openstreetmap.org/way/135719942",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Little Flowers School",
+    "category": "school",
+    "lat": 22.2750197,
+    "lon": 73.190403,
+    "source_url": "https://www.openstreetmap.org/way/295557045",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bankers Heart Institute",
+    "category": "hospital",
+    "lat": 22.2973123,
+    "lon": 73.1641271,
+    "source_url": "https://www.openstreetmap.org/way/295575032",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shreyas School",
+    "category": "school",
+    "lat": 22.2780366,
+    "lon": 73.1984043,
+    "source_url": "https://www.openstreetmap.org/way/296174601",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Rosary High School",
+    "category": "school",
+    "lat": 22.3184858,
+    "lon": 73.1832518,
+    "source_url": "https://www.openstreetmap.org/way/322435711",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Vadiwadi Fire Sation",
+    "category": "fire_station",
+    "lat": 22.3147287,
+    "lon": 73.1665167,
+    "source_url": "https://www.openstreetmap.org/way/322435730",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Tejas School Ground",
+    "category": "school",
+    "lat": 22.3174689,
+    "lon": 73.1587774,
+    "source_url": "https://www.openstreetmap.org/way/384817440",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda High School Danteshwar",
+    "category": "school",
+    "lat": 22.2733561,
+    "lon": 73.2140663,
+    "source_url": "https://www.openstreetmap.org/way/442156396",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Kendriya Vidhyala No.4, ONGC",
+    "category": "school",
+    "lat": 22.2770616,
+    "lon": 73.2070777,
+    "source_url": "https://www.openstreetmap.org/way/442156412",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Baroda High School ONGC",
+    "category": "school",
+    "lat": 22.2706279,
+    "lon": 73.2124443,
+    "source_url": "https://www.openstreetmap.org/way/442156414",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Police Headquaters Partapnagar",
+    "category": "police",
+    "lat": 22.2798149,
+    "lon": 73.2091071,
+    "source_url": "https://www.openstreetmap.org/way/442156427",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bright Day School",
+    "category": "school",
+    "lat": 22.290781,
+    "lon": 73.1337313,
+    "source_url": "https://www.openstreetmap.org/way/829229724",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Mahatma Gandhi Vidhyalaya",
+    "category": "school",
+    "lat": 22.2781515,
+    "lon": 73.1959632,
+    "source_url": "https://www.openstreetmap.org/way/857200423",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Shree Ambe Vidyalaya",
+    "category": "school",
+    "lat": 22.2969278,
+    "lon": 73.2505707,
+    "source_url": "https://www.openstreetmap.org/way/1163533686",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Bright Day School CBSE Harni",
+    "category": "school",
+    "lat": 22.3365772,
+    "lon": 73.2171795,
+    "source_url": "https://www.openstreetmap.org/way/1386101523",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Airport Police Station",
+    "category": "police",
+    "lat": 22.3331241,
+    "lon": 73.2163827,
+    "source_url": "https://www.openstreetmap.org/way/1386556171",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  },
+  {
+    "name": "Harni Primary School",
+    "category": "school",
+    "lat": 22.3380211,
+    "lon": 73.2169957,
+    "source_url": "https://www.openstreetmap.org/way/1387818142",
+    "verification_status": "unverified",
+    "note": "OSM candidate, not field verified; node/centroid position may not be an entrance. Acquired 2026-11-24T05:07:17.793012+00:00",
+    "active": true
+  }
+]

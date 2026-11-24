@@ -1,0 +1,66 @@
+{
+  "title": "Vadodara offline satellite coverage",
+  "bounds": [
+    [
+      22.25,
+      73.13
+    ],
+    [
+      22.4,
+      73.3
+    ]
+  ],
+  "native_resolution_m": 10,
+  "display_crs": "EPSG:3857",
+  "display_size": [
+    1751,
+    1670
+  ],
+  "acquired": "2026-11-22T05:41:41.025000Z",
+  "prepared_at_utc": "2026-11-23T15:52:07.592313+00:00",
+  "attribution": "Contains modified Copernicus Sentinel data (2026), processed by ESA / Microsoft Planetary Computer",
+  "collection_license_value": "proprietary",
+  "terms": [
+    "https://scihub.copernicus.eu/twiki/pub/SciHubWebPortal/TermsConditions/Sentinel_Data_Terms_and_Conditions.pdf"
+  ],
+  "items": [
+    {
+      "id": "S2C_MSIL2A_20261122T054141_R005_T43QCE_20261122T082911",
+      "datetime": "2026-11-22T05:41:41.025000Z",
+      "scene_cloud_percent": 0.000627,
+      "visual_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/Q/CE/2026/11/22/S2C_MSIL2A_20261122T054141_N0513_R005_T43QCE_20261122T082911.SAFE/GRANULE/L2A_T43QCE_A011558_20261122T055100/IMG_DATA/R10m/T43QCE_20261122T054141_TCI_10m.tif",
+      "scl_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/Q/CE/2026/11/22/S2C_MSIL2A_20261122T054141_N0513_R005_T43QCE_20261122T082911.SAFE/GRANULE/L2A_T43QCE_A011558_20261122T055100/IMG_DATA/R20m/T43QCE_20261122T054141_SCL_20m.tif"
+    },
+    {
+      "id": "S2C_MSIL2A_20261122T054141_R005_T43QBE_20261122T082911",
+      "datetime": "2026-11-22T05:41:41.025000Z",
+      "scene_cloud_percent": 0.007462,
+      "visual_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/Q/BE/2026/11/22/S2C_MSIL2A_20261122T054141_N0513_R005_T43QBE_20261122T082911.SAFE/GRANULE/L2A_T43QBE_A011558_20261122T055100/IMG_DATA/R10m/T43QBE_20261122T054141_TCI_10m.tif",
+      "scl_href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/43/Q/BE/2026/11/22/S2C_MSIL2A_20261122T054141_N0513_R005_T43QBE_20261122T082911.SAFE/GRANULE/L2A_T43QBE_A011558_20261122T055100/IMG_DATA/R20m/T43QBE_20261122T054141_SCL_20m.tif"
+    }
+  ],
+  "aoi_quality": {
+    "items": [
+      "S2C_MSIL2A_20261122T054141_R005_T43QCE_20261122T082911",
+      "S2C_MSIL2A_20261122T054141_R005_T43QBE_20261122T082911"
+    ],
+    "nodata_percent": 0.0,
+    "cloud_percent": 0.0,
+    "shadow_percent": 0.0
+  },
+  "attempts": [
+    {
+      "items": [
+        "S2C_MSIL2A_20261122T054141_R005_T43QCE_20261122T082911",
+        "S2C_MSIL2A_20261122T054141_R005_T43QBE_20261122T082911"
+      ],
+      "nodata_percent": 0.0,
+      "cloud_percent": 0.0,
+      "shadow_percent": 0.0
+    }
+  ],
+  "file": "vadodara-sentinel.jpg",
+  "bytes": 1807635,
+  "sha256": "27a416b7cdbe7590c32a984bb4c9af85bfd930b98e6554a624a380d71a1bce80",
+  "limitations": "10m native pixels, not building-level detail, live imagery, flood verification, or road safety evidence. Coverage is a bounded city rectangle."
+}
